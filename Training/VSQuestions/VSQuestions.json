@@ -1,0 +1,1364 @@
+#VSQuestions based on corporate sustainability reports and EU Voluntary Standard. For citation consult Readme.txt
+
+[
+  {
+    "ID": 1,
+    "Problem": "How do HSH Chemie's reporting choices and consolidation limitations shape the reliability and intended use of its first voluntary VSME sustainability report?",
+    "Solution": "HSH Chemie applies both the Basic and Comprehensive VSME modules and consolidates the parent and affiliated companies in 14 countries. Its 2024 IRO assessment identified climate change, working conditions, and governance as material even after its reporting obligation fell away. The report is intended as a transparent baseline, but heterogeneous IT systems and uneven subsidiary data mean that harmonisation and fuller coverage remain future priorities.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "B1"
+  },
+  {
+    "ID": 2,
+    "Problem": "How does HSH Chemie translate its first materiality assessment into a practical sustainability-management programme despite incomplete data in several topic areas?",
+    "Solution": "The assessment prioritised climate change, workforce working conditions, and governance and compliance. HSH Chemie responds by reporting existing measures, policies, and initial indicators while building Group-wide ESG processes, introducing data-collection software, and defining common core metrics. Where reliable quantitative data is not yet available, it uses qualitative explanations and plans gradual improvement rather than presenting unsupported precision.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "B2"
+  },
+  {
+    "ID": 3,
+    "Problem": "What does HSH Chemie's greenhouse-gas intensity of 2.95 tonnes of CO2e per EUR million of revenue reveal, and what important boundary limits its interpretation?",
+    "Solution": "The intensity divides 690.77 tonnes of Scope 1 and Scope 2 emissions by approximately EUR 234.45 million of revenue, allowing operational emissions to be related to business scale. It is not a full value-chain intensity measure: HSH Chemie's emissions inventory is still being expanded, and the reported ratio does not incorporate a complete Scope 3 inventory or all emissions drivers outside its own operations.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "B3"
+  },
+  {
+    "ID": 4,
+    "Problem": "How does HSH Chemie reconcile its assessment of limited pollution risk from its own offices with the potentially more significant risks arising elsewhere in its chemical distribution value chain?",
+    "Solution": "HSH Chemie's own activities are mainly office-based and generate predominantly non-hazardous routine waste, so direct pollution risk is assessed as limited. However, upstream and downstream handling and transport of chemicals may affect air, water, or soil. Those value-chain impacts were not systematically assessed in 2025, and the company intends to incorporate them gradually into future assessments.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "B4"
+  },
+  {
+    "ID": 5,
+    "Problem": "Why do the 36 logistics sites located within or near biodiversity-sensitive areas not lead HSH Chemie to report a direct negative biodiversity impact from its own operations?",
+    "Solution": "HSH Chemie examined 44 sites used by external logistics partners and found 36 within or near sensitive areas and 8 without such proximity. Because the company operates no production or storage facilities and has neither operational control nor direct responsibility for those partner sites, it identified no direct negative impact from its own activities. The findings will instead inform future partner selection and evaluation.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "B5"
+  },
+  {
+    "ID": 6,
+    "Problem": "How was HSH Chemie's approximately 2,463 cubic metres of 2025 water consumption established, and what limitation should be considered when interpreting this consolidated figure?",
+    "Solution": "The total combines direct consumption data, contractual or property-management information, and plausible estimates based on country-specific office averages and site size. Some leased offices are billed through flat-rate service charges rather than metered directly, so the figure is considered plausible but is not based entirely on primary measurements. All assessed locations were outside areas of elevated water stress.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "B6"
+  },
+  {
+    "ID": 7,
+    "Problem": "Why should HSH Chemie's reported 845 tonnes of waste be treated as an indicative office-based estimate rather than a complete Group-wide waste footprint?",
+    "Solution": "The figure covers office locations only and excludes waste from warehousing and logistics processes that had not yet been systematically recorded. It combines measured volumes with estimates based on employee numbers and an average office-waste rate where buildings use shared disposal systems. HSH Chemie considers the order of magnitude plausible but acknowledges limited accuracy and plans broader data collection.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "B7"
+  },
+  {
+    "ID": 8,
+    "Problem": "How do contract structure, workforce growth, gender composition, and turnover together characterise HSH Chemie's employment profile at the end of 2025?",
+    "Solution": "HSH Chemie had 337 employees, about 35% more than in 2021. Of 337 contracts, 302 were permanent and 35 fixed-term, indicating a predominantly stable contract base. The workforce comprised 209 women and 128 men, or 62% and 38%, while turnover was 10.2%. The combination shows growth and contractual stability alongside a moderate level of employee movement.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "B8"
+  },
+  {
+    "ID": 9,
+    "Problem": "What does HSH Chemie's first reportable workplace accident in 2025 imply about its health-and-safety approach when its preventive and mental-health measures are considered together?",
+    "Solution": "The single reportable accident shows that safety performance was not incident-free, but the response is broader than recording physical accidents. Employees are regularly informed about standards and prevention, and all staff have access to a group-wide digital mental-health tool offering learning resources, interactive courses, support services, and personal counselling.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "B9"
+  },
+  {
+    "ID": 10,
+    "Problem": "How do HSH Chemie's remuneration and learning disclosures show both established employment standards and a measurement limitation in its 2025 training data?",
+    "Solution": "Pay is stated to be significantly above statutory minimum wages in countries where they apply and aligned with sectoral collective agreements elsewhere; 6.4% of employees were covered by collective agreements. A Group-wide learning system recorded 1,462 completed training sessions, split 61% for women and 39% for men, but it could not record training hours, so time-based comparisons are not yet possible.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "B10"
+  },
+  {
+    "ID": 11,
+    "Problem": "How do HSH Chemie's planned efficiency measures connect sustainability trends in chemical supply chains with practical changes in transport, packaging, and internal processes?",
+    "Solution": "The company plans to keep monitoring industry-wide sustainability developments in chemical distribution and production, then test gradual operational adjustments in transport, packaging, and internal processes. This approach connects external regulatory and market trends with feasible efficiency improvements while recognizing that HSH Chemie operates across diverse national frameworks.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "C2"
+  },
+  {
+    "ID": 12,
+    "Problem": "Why did HSH Chemie refrain from setting a quantitative emissions-reduction target despite reporting 690.77 tonnes of Scope 1 and Scope 2 emissions for 2025, and what sequence does it propose instead?",
+    "Solution": "HSH Chemie considers its emissions-management programme too immature for a credible quantitative target because it lacks a complete, validated baseline and a sufficiently detailed understanding of emissions drivers. It will first expand and standardize the inventory, improve data and controls, finalize the baseline, and then define realistic but ambitious targets and measures while reporting transparently on progress.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "C3"
+  },
+  {
+    "ID": 13,
+    "Problem": "How do HSH Chemie's physical and transition climate risks differ, and what management gap prevents the company from assessing them consistently across the Group in 2025?",
+    "Solution": "Physical risks include extreme weather disrupting transport routes, warehouses, external logistics providers, and time-critical deliveries. Transition risks arise from changing chemical-industry regulation, certification requirements, and customer or supplier expectations. Assessments were decentralized and used no uniform criteria, so HSH Chemie plans a structured Group-wide method integrated into existing risk and management processes.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "C4"
+  },
+  {
+    "ID": 14,
+    "Problem": "What contrast emerges between HSH Chemie's overall workforce gender distribution and the representation of women at successive management levels in 2025?",
+    "Solution": "Women represented 62% of the workforce, with 209 women and 128 men. Yet the three-member Group management board was entirely male, and subsidiary management included 2 women and 13 men, about 15% women. At the next level, managers with personnel responsibility comprised 34 women and 32 men, so women formed a majority there for the first time.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "C5"
+  },
+  {
+    "ID": 15,
+    "Problem": "How does HSH Chemie's human-rights framework combine substantive prohibitions with a process for raising concerns, and what outcome was reported for 2025?",
+    "Solution": "Its Group-wide Code of Conduct binds employees and managers and prohibits child labour, forced labour, human trafficking, discrimination, and unsafe working conditions. Additional anti-discrimination and anti-harassment policies support those principles, while a confidential complaints and whistleblowing system protects employees from reprisals. No human-rights violations were recorded in 2025.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "C6"
+  },
+  {
+    "ID": 16,
+    "Problem": "Why do HSH Chemie's three reported management layers produce different gender-diversity conclusions, and which ratio applies to the top governance body in 2025?",
+    "Solution": "The Group management board had three men and no women, so its female-to-male ratio was zero. Subsidiary management, reflecting decentralised operational control, had 2 women and 13 men, while managers with personnel responsibility comprised 34 women and 32 men. The lower-level majority of women therefore does not change the all-male composition of the top governance body.",
+    "Report": "HSH Chemie 2025",
+    "VSME Module": "C9"
+  },
+  {
+    "ID": 17,
+    "Problem": "What can and cannot be established from Hotel Chamade's 2025 basis-of-preparation disclosure when the reporting standard, period, and blank financial key figures are considered together?",
+    "Solution": "The document is a 2025 VSME sustainability report prepared with The Ecological Entrepreneur and covers the hotel's environmental, social, and governance performance for that year. It identifies 14 FTE and the hotel NACE code, but the displayed revenue and total-assets lines contain no values. Consequently, turnover- or asset-based sustainability intensities cannot be calculated from the report.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "B1"
+  },
+  {
+    "ID": 18,
+    "Problem": "How do Hotel Chamade's Green Key foundation and its energy, mobility, and community themes create a coherent set of practices rather than isolated sustainability measures?",
+    "Solution": "Green Key provides the established operating foundation. The energy theme combines renewable electricity with building-efficiency improvements; mobility addresses guest and staff travel; and community links local sourcing, food-surplus partnerships, social initiatives, and neighbourhood engagement. The three themes connect environmental performance with guest behaviour and local value creation in day-to-day hotel operations.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "B2"
+  },
+  {
+    "ID": 19,
+    "Problem": "How can Hotel Chamade's higher total and per-stay energy consumption in 2025 coexist with zero reported Scope 1 and Scope 2 emissions, and which operational changes support this result?",
+    "Solution": "Energy use rose from 163.34 MWh and 13.66 kWh per stay in 2024 to 244.33 MWh and 15.54 kWh per stay in 2025, partly because 2024 renovations temporarily closed floors and 2025 had more stays. Emissions nevertheless fell to zero for Scopes 1 and 2 because the hotel used 100% renewable electricity and eliminated the prior 0.16 tonnes of direct emissions, supported by efficient HVAC, LEDs, insulation, and an electric delivery van.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "B3"
+  },
+  {
+    "ID": 20,
+    "Problem": "How should Hotel Chamade's support for reforestation be interpreted within its biodiversity disclosure when the report provides no site-based habitat or land-use metrics?",
+    "Solution": "The hotel lists GoForest as a partner through which it contributes to reforestation, so the initiative supports biodiversity and climate benefits outside the hotel. The report does not quantify land occupied, proximity to protected areas, habitat condition, or hectares restored. The partnership is therefore evidence of a positive initiative, not a measured assessment of the hotel's own direct biodiversity footprint.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "B5"
+  },
+  {
+    "ID": 21,
+    "Problem": "How did Hotel Chamade reduce water use per overnight stay in 2025 even though total water withdrawal increased, and what planned action follows from the result?",
+    "Solution": "The hotel installed aerated water-saving taps in staff areas, the kitchen, public toilets, and 15 of 51 rooms. Total use rose from 2,398 to 2,966 cubic metres as activity increased, but intensity fell from 200.60 to 187.90 litres per stay, a 6% reduction. The hotel plans to roll the measure out gradually to all bathrooms.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "B6"
+  },
+  {
+    "ID": 22,
+    "Problem": "Which waste streams reveal Hotel Chamade's largest circular-economy gaps, and how do its operational choices address food surplus, material life, and single-use products?",
+    "Solution": "Glass, paper and cardboard, and organic kitchen waste achieved recycling rates of 100%, 99%, and 96%, while plastic reached only 57% and mixed municipal waste 15%, making the latter two the main gaps. Circular actions include TooGood ToGo for food surplus, local and seasonal purchasing, recycled-tyre flooring, modular sanitaryware for targeted replacement, and avoiding single-use plastics.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "B7"
+  },
+  {
+    "ID": 23,
+    "Problem": "How do Hotel Chamade's staffing model and diversity indicators combine employment stability with the flexibility required for peak hotel operations in 2025?",
+    "Solution": "The hotel reported 14 full-time equivalents and, besides its two owners, 13 permanent employees supplemented by day contracts during peaks. Its workforce represented 11 countries and was equivalent to 12.1 female and 1.9 male FTE. This combines a stable permanent core with short-term staffing flexibility and a highly multicultural, predominantly female team.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "B8"
+  },
+  {
+    "ID": 24,
+    "Problem": "What conclusion can be drawn about Hotel Chamade's 2025 occupational-safety outcome when workforce size, accident incidence, and fatality data are considered together?",
+    "Solution": "Across a workforce of 14 full-time equivalents, Hotel Chamade reported no work-related accidents and no fatalities in 2025. The disclosed outcome therefore indicates incident-free performance for the reporting year, although it does not by itself establish a multi-year trend or quantify exposure hours.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "B9"
+  },
+  {
+    "ID": 25,
+    "Problem": "How does Hotel Chamade combine collective protection and minimum-pay compliance with role-specific learning for a small, operationally diverse workforce?",
+    "Solution": "All staff are covered by a collective bargaining agreement and earn at least the legal minimum wage. Training ranged from a 268-hour payroll adviser course and reception training to communication, supplier, allergen, cleaning-equipment, and housekeeping onboarding sessions. The mix addresses both formal development and the practical needs of reception, breakfast, and housekeeping roles.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "B10"
+  },
+  {
+    "ID": 26,
+    "Problem": "How do Hotel Chamade's zero anti-corruption and anti-bribery convictions or fines relate to the governance controls and human-rights safeguards described for 2025?",
+    "Solution": "The hotel reported no convictions or fines for anti-corruption or anti-bribery violations. This outcome is supported by a code of conduct that addresses discrimination prevention and workplace safety, a complaints mechanism available to all staff, and supplier screening based on environmental and responsible-purchasing criteria.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "B11"
+  },
+  {
+    "ID": 27,
+    "Problem": "How do Hotel Chamade's three sustainability themes translate its hotel business model into environmental and community priorities rather than a stand-alone ESG project?",
+    "Solution": "The energy theme links 100% renewable electricity with continual building-efficiency improvements. Mobility promotes low-carbon travel for guests and staff across the transport chain. Community connects the hotel with local suppliers, social initiatives, and its Ghent neighbourhood. Together they embed sustainability in daily operating and guest choices, building on the Green Key label.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "C1"
+  },
+  {
+    "ID": 28,
+    "Problem": "How do Hotel Chamade's short-, medium-, and long-term initiatives connect immediate operating efficiency with supplier logistics, guest mobility, and local social value?",
+    "Solution": "Short-term actions include more storage to reduce delivery frequency, wider use of water-saving fittings, and lower energy use per stay. Medium-term plans replace energy-intensive equipment, strengthen social-economy partnerships, and promote slow travel. The long-term direction is to reduce residual waste per stay and guest-travel emissions through communication and public-transport partnerships.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "C2"
+  },
+  {
+    "ID": 29,
+    "Problem": "Why do Hotel Chamade's zero Scope 1 and Scope 2 emissions not amount to a complete quantified climate-transition target for all of its greenhouse-gas impacts?",
+    "Solution": "Renewable electricity and the elimination of the previous 0.16 tonnes of direct emissions reduced Scope 1 and market-based Scope 2 to zero. However, the report still identifies about 545 tonnes of Scope 3 emissions for 2024, mainly guest transport and purchased goods. It proposes reducing guest-travel emissions by 2040 but gives no base year, percentage reduction, or quantified all-scope pathway.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "C3"
+  },
+  {
+    "ID": 30,
+    "Problem": "What does Hotel Chamade's 2025 workforce composition indicate about gender and nationality diversity, and what management-level conclusion cannot be drawn from those figures?",
+    "Solution": "The 14 FTE comprised 12.1 female and 1.9 male FTE, about 6.4 female FTE for every male FTE, and employees represented 11 countries. This shows a predominantly female and highly international workforce. The report does not separately disclose the gender composition of managers or its two owners, so no management or governance-body gender ratio can be derived.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "C5"
+  },
+  {
+    "ID": 31,
+    "Problem": "How does Hotel Chamade combine internal conduct safeguards with purchasing controls to extend its human-rights approach beyond a general statement of values?",
+    "Solution": "Its Code of Conduct explicitly addresses discrimination prevention and workplace safety, and all staff can use a complaints mechanism. Supplier screening and ecological purchasing criteria add value-chain controls, while the hotel asks suppliers to improve delivery practices. Together these measures link employee protection, a channel for concerns, and responsible sourcing, although the short report does not describe a formal due-diligence assessment.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "C6"
+  },
+  {
+    "ID": 32,
+    "Problem": "What is the scope of Hotel Chamade's zero severe human-rights incident statement, and why is it broader than an occupational-accident disclosure?",
+    "Solution": "The hotel reports zero incidents of child labour, forced labour, human trafficking, or discrimination in both its own operations and the value chain. That statement addresses severe rights-related conduct affecting workers beyond physical safety. It is distinct from the separate disclosure of zero work-related accidents and fatalities, which concerns occupational health and safety outcomes for the workforce.",
+    "Report": "Hotel Chamade 2025",
+    "VSME Module": "C7"
+  },
+  {
+    "ID": 33,
+    "Problem": "Why should Fracht AG's 2024 sustainability figures be interpreted as a developing consolidated baseline rather than a fully mature and externally assured time series?",
+    "Solution": "The report is Fracht's first consolidated disclosure and establishes 2024 as the baseline for emissions and sustainability data across the covered entities. Data passed internal reviews and management validation but received no external assurance. Fracht states that indicators and methods may be revised as systems improve, coverage broadens, and consolidation becomes more accurate.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "B1"
+  },
+  {
+    "ID": 34,
+    "Problem": "How does Fracht AG's pollutant disclosure distinguish quantified combustion-related air emissions from broader pollution topics judged immaterial in its first reporting cycle?",
+    "Solution": "Fracht reports emission factors for carbon monoxide, non-methane volatile organic compounds, nitrogen oxides, sulphur dioxide, PM10, and PM2.5. At the same time, the cross-reference table treats wider air, water, and soil pollution requirements as immaterial under the double materiality assessment. The disclosed factors therefore provide limited air-emission information rather than a comprehensive pollution inventory across all media.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "B4"
+  },
+  {
+    "ID": 35,
+    "Problem": "How can Fracht AG claim to apply circular-economy principles while acknowledging that its 2024 waste and material-flow disclosures are not yet quantitatively complete?",
+    "Solution": "Fracht points to its Supplier Code of Conduct, responsible purchasing policy, and employee engagement as mechanisms for circularity and resource efficiency. However, non-hazardous waste totals, amounts diverted to reuse or recycling, and relevant material mass flows were unavailable, while hazardous waste was marked not applicable. The claim therefore rests on practices and governance, with quantitative outcome measurement deferred to later cycles.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "B7"
+  },
+  {
+    "ID": 36,
+    "Problem": "Why should Fracht AG's 421.83 FTE contract total not be used directly to calculate a complete Group-wide gender percentage from the reported female and male figures?",
+    "Solution": "Fracht reports 421.83 permanent FTE and no temporary FTE, but its gender figures total 152.66 female plus 258.43 male FTE, or 411.09. The report also notes missing data for certain entities. Because the contract and gender totals do not have identical coverage, dividing the gender figures by 421.83 would mix boundaries and would not produce a fully consolidated gender distribution.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "B8"
+  },
+  {
+    "ID": 37,
+    "Problem": "What conclusion is supported by Fracht AG's 2024 accident and fatality figures, and what important exposure measure is absent from the disclosed result?",
+    "Solution": "Fracht reports zero recordable work-related accidents and zero work-related fatalities across the covered entities, indicating an incident-free disclosed outcome for the period. The cross-reference does not provide total hours worked or a frequency rate based on exposure hours. The result therefore supports a zero event count but not a comparison of risk intensity with another workforce or year.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "B9"
+  },
+  {
+    "ID": 38,
+    "Problem": "How do Fracht AG's training-hour figures provide a gender comparison while its remuneration and collective-bargaining disclosures remain less conclusive across all entities?",
+    "Solution": "Average training was 13.79 hours for women and 14.21 for men, a small difference in favour of men, although not all entities supplied complete data. Entities generally operate under EU or EEA wage rules, but the report adds disclaimers for uncovered jurisdictions and states that collective-bargaining data is not available for all entities. Training can therefore be compared cautiously, whereas Group-wide pay and coverage conclusions remain limited.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "B10"
+  },
+  {
+    "ID": 39,
+    "Problem": "What does Fracht AG's zero result for anti-corruption convictions and fines indicate when read alongside its governance policies and employee preparation in 2024?",
+    "Solution": "Fracht reported zero convictions and fines for breaches of anti-corruption and anti-bribery laws. Its governance framework includes a Code of Conduct, Supplier Code of Conduct, responsible purchasing and sustainability policies, due diligence in higher-risk settings, and UN Global Compact anti-corruption training. The zero outcome is therefore presented within an active compliance system rather than as an isolated statistic.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "B11"
+  },
+  {
+    "ID": 40,
+    "Problem": "How does Fracht AG connect its freight-forwarding business model and diverse sector exposure with the sustainability logic of its Fracht Four and SDG-aligned strategy?",
+    "Solution": "Fracht provides logistics services, including freight transport and cargo bookings, to sectors ranging from renewables and pharmaceuticals to mining, chemicals, consumer goods, and government. Its Fracht Four strategy and SDG alignment embed sustainability in routing, multimodal solutions, supplier and stakeholder engagement, and local action, allowing a common framework to guide a highly varied global logistics portfolio.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "C1"
+  },
+  {
+    "ID": 41,
+    "Problem": "How are Fracht AG's sustainability practices converted from broad policies into accountable and measurable initiatives under its comprehensive disclosure approach?",
+    "Solution": "Fracht combines Group policies and codes with quantified emissions reduction work, fleet decarbonisation, facility efficiency, renewable procurement, supplier engagement, employee training, and green logistics. A Power BI dashboard monitors local SDG initiatives, carbon calculations follow GHG Protocol principles, and the owner, Rudolf Reisdorf, is identified as the most senior accountable person. This links policy, measurement, implementation, and oversight.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "C2"
+  },
+  {
+    "ID": 42,
+    "Problem": "How do Fracht AG's 2034 emissions objectives combine an absolute operational reduction with a supplier-alignment target for its much larger value-chain footprint?",
+    "Solution": "Using 2024 as the base year, Fracht targets Scope 1 and Scope 2 emissions of 198.48 tonnes of CO2e in 2034, down from 481.7 tonnes, a reduction of about 58.8%. For Scope 3, whose base value is 185,649.44 tonnes, the objective is for suppliers responsible for 70% of those emissions to align with SBTi. Fleet decarbonisation and energy measures address operations, while supplier engagement and transport procurement address the value chain.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "C3"
+  },
+  {
+    "ID": 43,
+    "Problem": "What is the significance of Fracht AG reporting no identified climate hazards, transition events, or financial effects at this stage, despite operating in global transport and storage?",
+    "Solution": "The disclosure means that Fracht had not identified or formally assessed specific climate hazards, transition events, time horizons, adaptation actions, or financial effects in this reporting cycle. It should not be read as proof that global logistics has no climate exposure; rather, it marks a current assessment and data-development gap within a first consolidated baseline report.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "C4"
+  },
+  {
+    "ID": 44,
+    "Problem": "How does Fracht AG's human-rights framework extend beyond a policy statement to cover specific risks and enable concerns from both employees and external stakeholders?",
+    "Solution": "Fracht has a Code of Conduct and reports coverage of child labour, forced labour, human trafficking, discrimination, accident prevention, and other human-rights matters. Its whistleblower platform accepts internal and external reports, while supplier standards and responsible purchasing embed due diligence in procurement. The framework therefore combines defined rights, value-chain expectations, and a complaint channel.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "C6"
+  },
+  {
+    "ID": 45,
+    "Problem": "What conclusion does Fracht AG's 2024 disclosure support across child labour, forced labour, trafficking, discrimination, and impacts on people beyond its own workforce?",
+    "Solution": "Fracht reported no confirmed incidents of child labour, forced labour, human trafficking, discrimination, or other severe human-rights violations in its own workforce. It also reported no known confirmed incidents involving workers in the value chain, affected communities, consumers, or end users, so no incident-specific remedial action was required for the period.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "C7"
+  },
+  {
+    "ID": 46,
+    "Problem": "How does Fracht AG's sector-revenue disclosure distinguish its logistics services from activities that would trigger sensitive-sector revenue reporting or Paris-aligned benchmark exclusion?",
+    "Solution": "Fracht reported no revenue from controversial weapons, tobacco cultivation or production, chemical production, or fossil-fuel activities. Although it provides logistics to many industries, it does not classify itself as producing those sensitive goods. It also stated that it is not excluded from EU reference benchmarks aligned with the Paris Agreement.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "C8"
+  },
+  {
+    "ID": 47,
+    "Problem": "Why does Fracht AG's classification as a high-impact transport and storage company not conflict with its absence of revenue from the sensitive sectors listed under VSME C8?",
+    "Solution": "High-impact classification under the transition-plan disclosure reflects the climate significance of transport and storage. C8 asks a different question: whether the company itself earns revenue from controversial weapons, tobacco cultivation or production, chemical production, or fossil-fuel activities. Fracht reports no such revenue and states that it is not excluded from Paris-aligned EU benchmarks, even though it provides logistics services to customers in varied industries.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "C8"
+  },
+  {
+    "ID": 48,
+    "Problem": "What governance-level gender conclusion can be drawn from Fracht AG's disclosure of female managers, an unavailable manager ratio, and an all-male board?",
+    "Solution": "Fracht reports 13 female managers but states that the female-to-male manager ratio is not currently available, so management parity cannot be calculated. Separately, it reports no women on the board, which means the governance body's female-to-male ratio is zero. The presence of more than ten female managers therefore does not alter the all-male composition at board level.",
+    "Report": "Fracht AG 2024",
+    "VSME Module": "C9"
+  },
+  {
+    "ID": 49,
+    "Problem": "How do Hofmann's module selection, reporting approach, and materiality exclusions define the scope of its 2025 VSME sustainability report?",
+    "Solution": "Hofmann selected the Comprehensive Module but reports on an individual, not consolidated, basis for its German entity and Pfungstadt location. Its materiality work retained climate change, circular economy, own workforce, and business conduct as key topics while excluding pollution, water, biodiversity, and several stakeholder groups under the ESRS mapping. It nevertheless provides selected voluntary information on some excluded environmental topics.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "B1"
+  },
+  {
+    "ID": 50,
+    "Problem": "How does Hofmann move from a general commitment to sustainability toward a managed system for prioritizing actions, responsibilities, and continuous improvement?",
+    "Solution": "Hofmann embeds sustainability in corporate strategy, goes beyond minimum legal requirements, and uses ISO 14001 and ISO 9001 systems with regular audits. Management holds responsibility through the quality-management system, while the SDGs serve as a strategic compass and a double materiality assessment identifies impacts, risks, opportunities, and stakeholder priorities for resource allocation and reporting.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "B2"
+  },
+  {
+    "ID": 51,
+    "Problem": "Why does Hofmann continue to manage air, water, and soil pollution even though direct pollution was assessed as insignificant for its business activities?",
+    "Solution": "Hofmann treats non-materiality as a prioritisation result, not permission to ignore environmental responsibility. Its ISO 14001 system records and reviews relevant processes, applies legal or self-imposed standards, and supports process optimisation, resource conservation, wastewater control, and professional waste disposal. The company states that emissions and wastewater remain well below legal limits.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "B4"
+  },
+  {
+    "ID": 52,
+    "Problem": "Why does Hofmann pursue measurable biodiversity projects even though stakeholders did not classify biodiversity as material, and what ecological functions do the projects serve?",
+    "Solution": "Hofmann voluntarily supports regional biodiversity around Pfungstadt despite its non-material assessment. It maintains 3.71 hectares of orchard meadows and reforested 3.2 hectares of urban forest with 1,500 trees. These projects create habitat, support pollination, improve the microclimate, strengthen ecological diversity, and build employee awareness and regional connection.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "B5"
+  },
+  {
+    "ID": 53,
+    "Problem": "What do Hofmann's 2024 and 2025 water figures indicate about consumption and local scarcity exposure, despite water being classified as non-material?",
+    "Solution": "Total withdrawal declined from 1,192 cubic metres in 2024 to 1,170 cubic metres in 2025, a decrease of about 1.8%. The share associated with water-stressed areas remained below 10% and was rated low using the WRI assessment. Hofmann therefore shows a modest reduction and low scarcity exposure while continuing efficiency reviews and employee awareness under its environmental management system.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "B6"
+  },
+  {
+    "ID": 54,
+    "Problem": "How can Hofmann's unchanged total headcount between 2024 and 2025 conceal a shift in workforce gender composition and continued contractual stability?",
+    "Solution": "Headcount stayed at 152 and all employees remained on permanent contracts in both years. Within that stable total, the number of women fell from 27 to 25 while the number of men rose from 125 to 127, reducing women's share from 18% to 16%. The workforce was therefore contractually stable, but its gender balance moved slightly further toward men.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "B8"
+  },
+  {
+    "ID": 55,
+    "Problem": "What does Hofmann's unchanged accident count but slightly lower hours worked imply for the direction of its occupational accident frequency from 2024 to 2025?",
+    "Solution": "Hofmann recorded one reportable accident and no work-related fatalities in each year. Hours worked declined from 271,712 to 270,307, so an exposure-based rate per 200,000 hours would rise only marginally, from about 0.736 to 0.740. The event count is stable and low, but the frequency did not improve, which supports continued preventive measures and the established safety-management system.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "B9"
+  },
+  {
+    "ID": 56,
+    "Problem": "What do Hofmann's 2024 and 2025 training and remuneration indicators suggest about employee development when hours, spending, minimum pay, and the gender pay gap are considered together?",
+    "Solution": "Training hours per employee increased from 10.5 to 14.9 even as training cost per employee declined from EUR 677 to EUR 604, suggesting more learning was delivered at lower average cost. All employees were paid at least the minimum wage and the reported 2024 gender pay gap was 0%, supporting the company's stated principles of fair pay and equal opportunity.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "B10"
+  },
+  {
+    "ID": 57,
+    "Problem": "How can Hofmann report no corruption for 30 years and zero 2025 cases or fines while still identifying further development needs in its compliance system?",
+    "Solution": "Hofmann relies on zero tolerance, bank-only B2B transactions, dual control, and a business focus on lower-risk German and EU markets. It reports zero whistleblower reports, confirmed cases, and fines in 2025 and no corruption or bribery case for 30 years. Nevertheless, it plans to formalise specific anti-corruption and bribery principles and introduce regular employee training, showing that a strong outcome does not eliminate system-development needs.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "B11"
+  },
+  {
+    "ID": 58,
+    "Problem": "How does Hofmann's combination of product breadth, international reach, services, and sustainability priorities reduce business-model dependence while supporting long-term competitiveness?",
+    "Solution": "Hofmann balances rotors from 1 gram to over 100 tonnes for industries including automotive, aviation, energy, mechanical engineering, and medical technology. Production in Germany and the United States, a global sales and service network, customized solutions, maintenance, measurement, and training diversify revenue and market exposure. Renewable energy, lower emissions, responsible resources, workforce development, and sustainable suppliers reinforce long-term resilience.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "C1"
+  },
+  {
+    "ID": 59,
+    "Problem": "How do Hofmann's interim emissions targets, annual reduction assumption, and planned transition plan combine into a pathway toward net zero by 2045?",
+    "Solution": "Against a 2023 base year, Hofmann targets at least 65% lower emissions by 2030, at least 85% by 2040, and net zero by 2045. It currently plans an average reduction of about 15% versus each preceding year. A comprehensive transition plan due by the end of 2027 will set measures, timing, responsibilities, milestones, and performance indicators and will review the reduction path.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "C3"
+  },
+  {
+    "ID": 60,
+    "Problem": "How does Hofmann's Pfungstadt climate-risk analysis connect local heat exposure to employee health, energy demand, and the current boundary of its assessment?",
+    "Solution": "The industrial site is identified as a heat hotspot, with surface temperatures sometimes 15 degrees Celsius above the municipal average and heat stress ranging from moderate to very severe. This can harm employees and increase cooling demand, energy use, and costs. The assessment currently covers the Pfungstadt site only, excluding upstream and downstream value-chain exposure that Hofmann plans to add in the medium term.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "C4"
+  },
+  {
+    "ID": 61,
+    "Problem": "What picture of workforce stability and diversity emerges from Hofmann's 2025 headcount, contract structure, gender distribution, and turnover indicators?",
+    "Solution": "Hofmann employed 152 people, unchanged from 2024, and all employees had permanent contracts, indicating contractual stability. The workforce was 16% female and 84% male, showing a substantial gender imbalance. Turnover rose from 6.0% to 8.1%, so retention remained relatively stable but weakened compared with the prior year.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "C5"
+  },
+  {
+    "ID": 62,
+    "Problem": "How do Hofmann's zero severe human-rights incidents in 2024 and 2025 relate to the preventive controls applied to its own workforce and supply chain?",
+    "Solution": "Hofmann reported zero own-workforce violations involving child labour, forced labour, human trafficking, or discrimination, and zero security incidents across the entire value chain in both years. Preventive controls include a Code of Conduct, human-rights policy, complaints system, supplier sustainability guidelines, reviews of the 30 largest suppliers, conflict-mineral declarations, and risk-based preventive or remedial measures with suppliers.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "C7"
+  },
+  {
+    "ID": 63,
+    "Problem": "How does Hofmann's 2024 sensitive-sector revenue disclosure align with its core business in balancing technology and its statement about direct and indirect activity?",
+    "Solution": "Hofmann reports zero revenue from controversial weapons, tobacco cultivation and production, fossil-fuel extraction through distribution, and chemical manufacturing. It states that it is active in none of those sectors, directly or indirectly. Its revenue instead comes from solutions that improve the quality and efficiency of rotating components, so its business model falls outside the listed sensitive activities.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "C8"
+  },
+  {
+    "ID": 64,
+    "Problem": "How does women's representation change across Hofmann's leadership hierarchy in 2025, and what governance weakness does the company acknowledge alongside these figures?",
+    "Solution": "Women held none of the 2 management, 3 division-management, or 7 department-management roles. At team-lead level, women held 4 of 18 positions, while men held 14. The company recognizes that mechanical engineering has low female representation and states that it has no specific leadership-diversity rules or targets, although equal treatment and opportunity are general governance principles.",
+    "Report": "Hofmann Mess- und Auswuchttechnik 2025",
+    "VSME Module": "C9"
+  },
+  {
+    "ID": 65,
+    "Problem": "What does SPIES Kunststoffe's 2024 energy mix reveal about its reliance on renewable sources, and how should that result be interpreted alongside its reported value-chain emissions?",
+    "Solution": "SPIES used 19,110 MWh of renewable and 17,837 MWh of non-renewable energy, so renewable energy represented about 51.7% of the 36,947 MWh total. The company nevertheless reported 133,842.05 tonnes of gross greenhouse-gas emissions across all scopes, showing that a majority-renewable operational energy mix does not eliminate substantial emissions, especially those arising in the value chain.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "B3"
+  },
+  {
+    "ID": 66,
+    "Problem": "Why does SPIES Kunststoffe report no relevant air, water, or soil pollutant emissions despite operating an energy-intensive plastic-packaging production site?",
+    "Solution": "SPIES processes plastics by injection moulding without solvent-based materials or chemical substances that typically create such emissions. Closed technical cycles, internal material recycling, and modern production facilities further limit releases. Its environmental and energy management systems identified no emissions requiring official reporting or considered relevant to air, water, or soil, even though energy use and greenhouse gases remain material issues.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "B4"
+  },
+  {
+    "ID": 67,
+    "Problem": "How should SPIES interpret the difference between its calculated unsealed land and ecologically verified natural area, including the separate solar-farm site?",
+    "Solution": "Of 94,749 square metres at the Melle sites, 69,555 square metres are sealed, leaving 25,194 square metres unsealed. SPIES explicitly does not classify that remainder as natural because unsealed land is not automatically habitat. Separately, its 140,000-square-metre off-site solar farm is mostly unsealed and is planned for grassland, wildflowers, hedgerows, a pond, and a one-hectare meadow orchard.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "B5"
+  },
+  {
+    "ID": 68,
+    "Problem": "Why does SPIES report zero water consumption in production processes while still disclosing substantial company-wide water consumption, and what operational design explains the difference?",
+    "Solution": "SPIES reported 0 cubic metres of production-process consumption because its technical cooling water operates in a closed circuit with no continuous process use. Company-wide consumption of 4,142 cubic metres instead arose almost entirely from sanitary facilities, cleaning, and green-space maintenance. The company also reported no sites in high-water-stress areas.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "B6"
+  },
+  {
+    "ID": 69,
+    "Problem": "What do SPIES Kunststoffe's total waste and plastic-recycling figures reveal about the dominant waste stream and the effectiveness of its internal circularity model?",
+    "Solution": "SPIES generated 1,659.52 tonnes of waste in 2024, of which plastic accounted for 1,317.28 tonnes, or about 79%. It recycled 1,315.45 tonnes of plastic, a stated rate of 99.86%, because sorted production scrap can be regranulated and returned to the material cycle. Monomaterial IML design, reusable packaging, and the HolyGrail initiative complement this high process-waste recovery rate.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "B7"
+  },
+  {
+    "ID": 70,
+    "Problem": "What do SPIES Kunststoffe's contract, gender, location, and turnover data jointly indicate about the structure and stability of its 2024 workforce?",
+    "Solution": "Of 386 employees, 319 had permanent and 67 fixed-term contracts, so about 82.6% were permanent. The workforce included 110 women and 276 men, or about 28.5% women, and every employment contract was German because all staff worked at Melle. Turnover was 13.28%, indicating meaningful employee movement despite a predominantly permanent contract base.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "B8"
+  },
+  {
+    "ID": 71,
+    "Problem": "How should SPIES Kunststoffe's 13 reportable accidents be interpreted in relation to workforce size, fatalities, and its preventive health-and-safety system?",
+    "Solution": "With 386 employees, 13 reportable accidents correspond to the disclosed rate of 3.37%, while no work-related deaths occurred. SPIES supports prevention through an occupational safety officer and committee, annual training for all employees, company medical care, ergonomic support, and noise-reduction measures. The zero-fatality outcome therefore coexists with a non-zero accident frequency requiring continued prevention.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "B9"
+  },
+  {
+    "ID": 72,
+    "Problem": "What combined picture of pay protection, pay equality, collective coverage, and learning emerges from SPIES Kunststoffe's 2024 workforce disclosures?",
+    "Solution": "All employees received at least the statutory minimum wage and were covered by the voluntary in-house collective agreement, which has applied since July 2022. However, the gender pay gap was 16.26%, attributed partly to role and demographic structure. Women completed 652.5 training hours and men 2,197.5, with an overall average of 7.6 hours per employee, showing broad protections but a material pay disparity.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "B10"
+  },
+  {
+    "ID": 73,
+    "Problem": "How does SPIES Kunststoffe's vertically integrated Melle operation connect its product strategy, customer relationships, and sustainability priorities within a B2B model?",
+    "Solution": "SPIES develops, designs, builds tooling for, and serially produces customised injection-moulded packaging at one Melle location, mainly for food and beverage manufacturers in Germany and neighbouring Europe. Direct, long-term customer relationships allow solutions to be tailored across the value chain. Material efficiency, recyclability, reusable formats, energy management, and durable supplier relationships therefore sit inside product development rather than outside the business model.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "C1"
+  },
+  {
+    "ID": 74,
+    "Problem": "How does SPIES turn its five-part corporate mission into concrete environmental, circularity, workforce, and product-design initiatives with clear accountability?",
+    "Solution": "The SPIES 2025 mission covers finance, customers, processes, employees, and sustainability, supported by a Sustainability Vision and priority SDGs. Actions include ISO 50001 energy management, carbon accounting, monomaterial packaging, HolyGrail digital watermarks, reuse of production scrap, the Zero Granulate Loss project, employee safety and development programmes, and design for sustainability. Overall accountability rests with management.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "C2"
+  },
+  {
+    "ID": 75,
+    "Problem": "Why does SPIES Kunststoffe distinguish its existing decarbonisation measures from a complete greenhouse-gas target and transition plan at the end of 2024?",
+    "Solution": "SPIES had quantified its footprint and was already pursuing ISO 50001 efficiency work, technical upgrades, fleet electrification, improved Scope 3 data, a 2025 switch to green electricity, and a solar farm. However, its climate strategy was still under development and lacked a final base year, verified reduction values, and publication date. Those elements were to be set in 2025 before a structured transition plan could be finalised.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "C3"
+  },
+  {
+    "ID": 76,
+    "Problem": "How does SPIES distinguish physical from transition climate risks, assess its exposure, and respond before completing a more detailed structured analysis?",
+    "Solution": "Physical risks include storm or heat damage, flooding, and weather-related supply-chain disruption. Transition risks include regulation, carbon pricing, circular-material requirements, and customer expectations. SPIES rates infrastructure risk as generally low but sees production, energy, and supply chains as sensitive; it uses renewable-energy expansion, ISO 50001 efficiency, circularity, material efficiency, and robust supplier relationships, with overall risk judged low to medium.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "C4"
+  },
+  {
+    "ID": 77,
+    "Problem": "How does the SPIES Code combine broad human-rights coverage with a complaint process and planned value-chain expansion of due diligence?",
+    "Solution": "The legally binding code applies to every employee and covers child labour, forced labour, trafficking, discrimination, accident prevention, fair pay, working time, harassment, privacy, environmental protection, anti-corruption, and legal conduct. Employees and third parties can submit confidential reports through a public form under a secure process. An updated code and a supplier code were planned for 2025 to extend expectations through the value chain.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "C6"
+  },
+  {
+    "ID": 78,
+    "Problem": "How broad is SPIES Kunststoffe's zero severe human-rights incident disclosure, and why were no incident-specific remedial measures reported for 2024?",
+    "Solution": "SPIES identified no confirmed human-rights incidents in its own operations and none affecting value-chain workers, communities, consumers, or end users. Because no incident was reported or found, no incident-specific remedy was required. Prevention instead rested on the SPIES Code, labour-law standards, training, and whistleblower protection, with a supplier code planned to extend due diligence further through the value chain.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "C7"
+  },
+  {
+    "ID": 79,
+    "Problem": "How does SPIES Kunststoffe's sensitive-sector disclosure support its eligibility for Paris-aligned EU benchmarks despite operating in plastics manufacturing?",
+    "Solution": "SPIES reported no activities or revenue from controversial weapons, tobacco, fossil fuels, pesticides, or other agrochemical products. Plastics packaging manufacturing therefore did not place the company in the sensitive activities listed by this disclosure. SPIES also stated that it is not excluded from Paris-aligned EU benchmarks and that those benchmarks remain applicable to it.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "C8"
+  },
+  {
+    "ID": 80,
+    "Problem": "What distinction should be made between SPIES Kunststoffe's management-level gender ratio and the composition of its formal governance body in 2024?",
+    "Solution": "SPIES reported a management-position gender ratio of 0.17 for department managers below the executive board. Its formal governance body was the management board, which consisted of one man and no women. The two figures therefore describe different organizational levels and show that limited female representation below the board did not extend to the formal executive body.",
+    "Report": "SPIES Kunststoffe 2024",
+    "VSME Module": "C9"
+  },
+  {
+    "ID": 81,
+    "Problem": "Why did K2 Systems publish a VSME Basic Module report after its statutory CSRD reporting obligation was removed, and how did the earlier materiality work still shape the report?",
+    "Solution": "K2 Systems chose an inaugural voluntary report to provide a structured, reliable, transparent, and verifiable account of corporate responsibility even after the EU Omnibus change removed its statutory CSRD obligation. It retained the double materiality assessment as a decision tool for topic selection and prioritization, identifying climate change, its direct workforce, and governance as material.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "B1"
+  },
+  {
+    "ID": 82,
+    "Problem": "How does K2 Systems connect formal ESG policies and external assessment with employee-led action and supplier-focused decarbonization in its sustainability approach?",
+    "Solution": "The ESG strategy is anchored in a binding Code of Conduct, monitored through targets, indicators, operational data, and EcoVadis assessment. Employees turn it into action through the Eco Warriors Battle, which has supported recycling, clothing reuse, and health initiatives. Product carbon footprints for aluminium and annual supplier sustainability assessments provide the basis for supplier development and lower product emissions.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "B2"
+  },
+  {
+    "ID": 83,
+    "Problem": "How do K2 Systems' electricity, heating, fleet, and emissions figures demonstrate both progress in operational decarbonization and the remaining source of direct emissions?",
+    "Solution": "All 585 MWh of electricity was renewable, and 235 of 435 MWh of heating energy was renewable, bringing renewables to about 80% of combined electricity and heat. Around 90% of the fleet was electric by year-end and charged with green power. Market-based Scope 2 emissions were therefore zero, while 99.4 tonnes of Scope 1 remained from heating fuels, technical gases, and the residual vehicle fleet.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "B3"
+  },
+  {
+    "ID": 84,
+    "Problem": "What does K2 Systems' classification of biodiversity and ecosystems as non-material indicate about prioritization, and what should not be inferred from that classification?",
+    "Solution": "The double materiality assessment placed biodiversity and ecosystems outside K2 Systems' material topics, while climate change, the direct workforce, and governance were material. This explains why biodiversity was not treated as a central reporting priority. The classification should not be interpreted as proof of zero impact; it is a prioritization outcome for this reporting cycle.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "B5"
+  },
+  {
+    "ID": 85,
+    "Problem": "How does K2 Systems' 2025 water profile combine low-impact office use, substitution of drinking water, rainwater reuse, and a boundary limitation at its Berlin site?",
+    "Solution": "Total water use was 1,371.2 cubic metres, including 305 cubic metres of harvested rainwater, reported as 23%, for toilet flushing and outdoor watering. In-house dispensers also avoided about 24,500 water bottles and associated transport. Water was non-material because K2 has no proprietary production at the sites, while Berlin lacked site-specific data and was estimated, limiting precision.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "B6"
+  },
+  {
+    "ID": 86,
+    "Problem": "How should K2 Systems' reported 100% recycling and reuse rate for 370.26 tonnes of waste be interpreted, and which initiative illustrates circular use beyond formal classification?",
+    "Solution": "Under its VSME method, separately collected waste handed to specialist waste or recycling companies is classified as reused based on the amount transferred, not on the processor's final recycling yield. Thus the 100% rate does not prove that every material was ultimately recycled. Beyond this accounting rule, headquarters food waste is separately collected, composted on site, and reused in outdoor maintenance.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "B7"
+  },
+  {
+    "ID": 87,
+    "Problem": "What do K2 Systems' contract, diversity, leadership, and turnover comparisons suggest about workforce stability and inclusion relative to German benchmarks?",
+    "Solution": "K2 employed 318 people from more than 40 nations, with 94.03% on permanent contracts versus a 93% German average. Women held 36% of leadership positions compared with a 29% national figure. Turnover was 15.6%, about half the cited national average of 30%. Together the indicators support a relatively stable, diverse workforce, while the overall gender split remained 127 women to 191 men.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "B8"
+  },
+  {
+    "ID": 88,
+    "Problem": "How do K2 Systems' training and compensation indicators support its claim of employee development and fair treatment, while still revealing room for improvement?",
+    "Solution": "Employees averaged 22.8 training hours, above the cited German average of 20.3, with similar results for women at 23 hours and men at 22.6. Pay is based on qualifications, responsibility, and accountability, and the gender pay gap was 4.2%, well below the cited German 15.6%. The remaining 4.2% gap, attributed mainly to role and qualification structure, shows that complete pay parity had not been reached.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "B10"
+  },
+  {
+    "ID": 89,
+    "Problem": "How does K2 Systems support its zero anti-corruption conviction and fine outcome with preventive governance controls rather than relying only on employee declarations?",
+    "Solution": "The Code of Conduct prohibits corruption, bribery, fraud, and unethical conduct and applies to all employees. Regular training reinforces compliant behaviour, an anonymous whistleblower system enables concerns to be raised, and every invoice requires a four-eyes approval. Within this control environment, K2 reported no known anti-corruption or anti-bribery convictions or fines in 2025.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "B11"
+  },
+  {
+    "ID": 90,
+    "Problem": "How does K2 Systems' photovoltaic mounting-system business model combine product functionality, digital planning, regional manufacturing, and global energy-transition impact?",
+    "Solution": "K2 develops durable mounting systems for roofs, ground installations, facades, and carports, with ease of installation and safety as design priorities. Its K2 Base software supports precise planning that can reduce material use and waste, while development in Germany and predominantly European manufacturing shorten supply chains. Systems using K2 structures operate in more than 130 countries and enable about 126 GWh of renewable electricity generation per day.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "C1"
+  },
+  {
+    "ID": 91,
+    "Problem": "How do K2 Systems' product-carbon data and supplier indicators turn sustainable procurement from a general policy into measurable operational decision support?",
+    "Solution": "K2 calculated Product Carbon Footprints for aluminium rails largely from supplier data and places available footprints on customer invoices or provides batch-specific data on request. Procurement is 85% EU-based; annual assessments show 71% of suppliers hold ISO 14001 certification and 80% use renewable energy. The next step is to expand product footprints and use supplier comparisons to reduce product emissions.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "C2"
+  },
+  {
+    "ID": 92,
+    "Problem": "Why does K2 Systems' climate-change materiality and mitigation reporting not provide the same information as a complete C4 climate-risk assessment?",
+    "Solution": "K2 identifies climate action as material and reports energy, emissions, product footprints, and mitigation measures, but the report is oriented to the VSME Basic Module. It does not identify specific physical hazards or transition events, assess asset and value-chain sensitivity, assign time horizons, or describe adaptation actions. Material climate impact and emissions management therefore should not be mistaken for a completed climate-risk disclosure.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "C4"
+  },
+  {
+    "ID": 93,
+    "Problem": "What do K2 Systems' workforce and leadership indicators reveal when gender representation, employment stability, and employee retention are evaluated together?",
+    "Solution": "The workforce comprised 127 women and 191 men, so women represented about 40%, while women held 36% of leadership positions, above the cited German average of 29%. Permanent contracts accounted for 94.03%, and turnover was 15.6%, about half the cited national rate of 30%. The data suggests relatively stable employment and stronger-than-benchmark female leadership, though neither measure establishes parity.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "C5"
+  },
+  {
+    "ID": 94,
+    "Problem": "What human-rights safeguards does K2 Systems describe, and which details required for a full C6 policy-and-process assessment remain undisclosed?",
+    "Solution": "K2 describes a binding Code of Conduct aligned with fundamental human rights, equal opportunity and fair treatment, applies the same standards to business partners, and uses regular compliance training plus an anonymous whistleblower system. The report does not enumerate whether the code specifically covers child labour, forced labour, trafficking, and accident prevention, nor does it describe the complaint process in detail, so the C6 coverage cannot be assessed completely.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "C6"
+  },
+  {
+    "ID": 95,
+    "Problem": "Why cannot K2 Systems' zero anti-corruption convictions and fines be treated as evidence that no severe negative human-rights incidents occurred in 2025?",
+    "Solution": "The reported zero concerns convictions and fines under anti-corruption and anti-bribery laws, which is a governance outcome. Although K2 states respect for human rights and maintains a Code of Conduct and whistleblower system, the report does not separately disclose confirmed incidents of child labour, forced labour, trafficking, discrimination, or severe value-chain impacts. A C7 zero therefore cannot be inferred from the anti-corruption result.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "C7"
+  },
+  {
+    "ID": 96,
+    "Problem": "Why is K2 Systems' reported 36% share of women in leadership not sufficient to calculate the C9 gender-diversity ratio for its formal governance body?",
+    "Solution": "The 36% measure covers leadership positions generally and is benchmarked against German executive statistics. C9 concerns the composition of the undertaking's administrative, management, or supervisory governance body and normally requires women relative to men in that body. K2 does not identify that body's membership by gender, so the leadership percentage cannot be converted into a governance-body ratio without unsupported assumptions.",
+    "Report": "K2 Systems 2025",
+    "VSME Module": "C9"
+  },
+  {
+    "ID": 97,
+    "Problem": "How does ten23 health connect its Patients, People, and Planet commitments with formal policies, executive accountability, and materiality-based prioritisation?",
+    "Solution": "The three pillars are embedded in the company's purpose and linked to priority SDGs and public goals. The operating-system, Fairstainability, People and Culture, and Supplier Code frameworks translate them into rules and initiatives; policies are approved by the CEO and assigned to General Circle leaders. The 2024 double materiality assessment then prioritised quality, ethics, safety and wellbeing, climate management, and responsible supply chains for the 2030 strategy.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "B2"
+  },
+  {
+    "ID": 98,
+    "Problem": "How does ten23 health limit pollution risks from laboratory and manufacturing operations through chemical substitution, travel rules, and site-specific wastewater controls?",
+    "Solution": "ten23 reports no on-site combustion emissions of sulphur dioxide, nitrogen oxides, or particulates and replaces hazardous solvents with isopropanol where feasible. Its mobility rules prioritize trains and public transport. At BASE, industrial wastewater receives dedicated treatment before release; at VIVA1, chemicals remain in disposable biobags that are incinerated under controlled conditions rather than entering wastewater.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "B4"
+  },
+  {
+    "ID": 99,
+    "Problem": "How does ten23 health reconcile limited direct biodiversity pressure at its Swiss sites with positive contributions to ecosystems outside its operational boundary?",
+    "Solution": "Its Basel and Visp operations occupy less than 0.5 hectare and are not in biodiversity-sensitive areas listed in the WDPA, so direct site pressure is limited. Beyond those sites, ten23 supports maintenance of 1.75 hectares of rainforest in Panama and a peatland restoration project that protects habitat for threatened species. These are positive external initiatives rather than evidence of direct operational land impact.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "B5"
+  },
+  {
+    "ID": 100,
+    "Problem": "How did ten23 health's cooling-system change alter both the level and source composition of water withdrawal between 2023 and 2024?",
+    "Solution": "Total withdrawal fell from 14,880 to 7,219 cubic metres. Surface-water use dropped sharply from 13,458 to 2,604 cubic metres after the Basel cooling system moved away from Rhine water, while third-party water increased from 1,422 to 4,615 cubic metres. The change therefore reduced overall withdrawal and reliance on surface water, even though purchased public water became the larger source.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "B6"
+  },
+  {
+    "ID": 101,
+    "Problem": "Why did ten23 health's waste and recycling performance deteriorate in 2024, and how does the proposed customer response apply a circular-economy principle to the root cause?",
+    "Solution": "Non-EU wooden and plastic pallets did not fit the Europallet system and lacked viable recirculation or recycling routes, contributing to a 101% rise in total waste and a 288% rise in plastic sent to incineration, from 2.7 to 7.8 tonnes. ten23 began discussing customer take-back options so incompatible pallets can circulate back through the value chain instead of accumulating as one-way waste.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "B7"
+  },
+  {
+    "ID": 102,
+    "Problem": "How does ten23 health provide fair compensation, employee representation, and development despite having no formal collective bargaining agreement and incomplete training-hour data?",
+    "Solution": "All employees are paid above the applicable living and cantonal minimum wages, permanent staff share a bonus programme, and employee ownership is available. Two employee representatives support dialogue without a formal collective agreement. Training time is not comprehensively tracked, but each new employee receives at least 14 onboarding hours, 83% completed Profile Dynamics assessments, and 20% had individual growth plans by year-end.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "B10"
+  },
+  {
+    "ID": 103,
+    "Problem": "How should ten23 health's absence of anti-corruption convictions or fines be interpreted alongside its external accountability as a UN Global Compact signatory?",
+    "Solution": "ten23 reports no convictions or fines for breaches of anti-corruption or anti-bribery laws. It also commits to the UN Global Compact's anti-corruption principles and reports annually through the Communication on Progress. The zero legal outcome is therefore accompanied by a recurring transparency mechanism, rather than being presented as the company's only compliance control.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "B11"
+  },
+  {
+    "ID": 104,
+    "Problem": "How does ten23 health's B2B service model define both the limits of its product responsibility and the relevance of its sustainability certifications?",
+    "Solution": "ten23 is a contract development, manufacturing, and testing organization offering formulation development, sterile fill-and-finish, and analytical testing to global clients. It has no products of its own in development or distribution, so its impacts arise through services, facilities, and customer projects. B Corp certification, an EcoVadis score of 73, and the highest My Green Lab level independently assess how it manages those operational and service impacts.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "C1"
+  },
+  {
+    "ID": 105,
+    "Problem": "How do ten23 health's eco-design collaboration and association strategy extend its sustainability practices beyond improvements made inside its own facilities?",
+    "Solution": "ten23 co-developed Elio's AI and big-data eco-tool so scientists and engineers can compare consumables and suppliers earlier in pharmaceutical design, with planned linkage to its ERP system. It also co-founded action-oriented industry groups and participates in global, national, and local associations. These initiatives use shared data, procurement influence, and collective adoption to address value-chain impacts that one contract manufacturer cannot solve alone.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "C2"
+  },
+  {
+    "ID": 106,
+    "Problem": "How do ten23 health's newly validated climate targets build on its early intensity achievement, and which operational dependencies must its transition planning address?",
+    "Solution": "ten23 achieved its prior target one year early by cutting Scope 1 and 2 emissions intensity by 57%. Its SBTi-approved targets require a 42% absolute Scope 1 and 2 reduction by 2030 and a 90% absolute Scope 1, 2, and 3 reduction by 2050, both from 2023, on the path to net zero. Planning must address dependence on a single Basel district-heating supplier and improve Scope 3 data quality and granularity.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "C3"
+  },
+  {
+    "ID": 107,
+    "Problem": "How can climate change be material to ten23 health even though its 2024 assessment found no direct short- or long-term exposure to physical climate hazards?",
+    "Solution": "The double materiality assessment considered both impacts and financial risks and opportunities. It found no direct exposure of operations to hazards such as more frequent extreme weather, but identified ten23's greenhouse-gas emissions as its most relevant climate impact. This supports priorities for carbon-neutral operations and net zero by 2050 while showing that climate materiality can arise from the company's impact, not only asset vulnerability.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "C4"
+  },
+  {
+    "ID": 108,
+    "Problem": "What do ten23 health's 2023-to-2024 workforce and management indicators reveal about growth, gender balance, diversity, and retention pressures?",
+    "Solution": "Headcount grew from 185 to 206, while women represented 49% of employees in 2024. Women's share of first- and mid-level management rose from 32% to 47%, approaching parity, and 22 nationalities were represented. Turnover increased from 10.2% to 13.5%, indicating that rapid growth and diversity gains were accompanied by greater retention pressure.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "C5"
+  },
+  {
+    "ID": 109,
+    "Problem": "How does ten23 health combine workforce policy, confidential reporting, supplier expectations, and risk assessment into a human-rights due-diligence process?",
+    "Solution": "The mandatory operating-system policy covers the UN Global Compact principles, including child and forced labour, discrimination, human rights, and accident prevention. Employees can report securely without retaliation to an external compliance officer. A Supplier Code and questionnaire extend expectations to key suppliers, while a 2023 saliency assessment examined risks through tier 2 and beyond for ongoing evaluation, control, and engagement.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "C6"
+  },
+  {
+    "ID": 110,
+    "Problem": "What is the scope of ten23 health's statement that it had no confirmed severe negative human-rights incidents in 2024, and which categories are explicitly covered?",
+    "Solution": "The statement applies to ten23 health's own workforce and covers child labour, forced labour, human trafficking, discrimination, and other severe human-rights incidents. None was confirmed for the reporting period. The report supports prevention through mandatory policy, complaints handling, supplier expectations, and risk assessment, but the zero figure itself is specifically stated for the workforce.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "C7"
+  },
+  {
+    "ID": 111,
+    "Problem": "How does ten23 health's service-based pharmaceutical business support its zero sensitive-sector revenue and Paris-aligned benchmark status under VSME C8?",
+    "Solution": "ten23 provides contract development, sterile manufacturing, and testing services and reports no activity in controversial weapons, tobacco cultivation or production, fossil fuels, or pesticide and agrochemical manufacturing. It also states that it is not excluded from Paris-aligned EU reference benchmarks. The classification reflects its own activities and revenues, not the industries of every client it supports.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "C8"
+  },
+  {
+    "ID": 112,
+    "Problem": "What does the progression from ten23 health's board to its leadership team, management population, and total workforce reveal about where gender imbalance is concentrated?",
+    "Solution": "Women represented 1 of 7 non-executive board members, or 14%, and 5 of 13 General Circle members, or 38%. Representation rose to 47% among first- and mid-level managers and 49% across the workforce. The pattern approaches parity below the governance body but shows a pronounced shortfall at board level, so company-wide balance does not imply governance parity.",
+    "Report": "ten23 health 2024",
+    "VSME Module": "C9"
+  },
+  {
+    "ID": 113,
+    "Problem": "How do VEP87's reporting boundary and reporting period affect the interpretation of a document presented in 2025 but labelled as its 2024 Sustainability Report?",
+    "Solution": "The report covers VEP87 S.a.s.'s entire operational scope and includes relevant data and initiatives from 1 January 2023 through 31 December 2024. The directors presented the declaration on 15 September 2025. Thus 2025 is the publication and presentation year, while the substantive reporting boundary is the company-wide 2023-2024 period ending in 2024.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "B1"
+  },
+  {
+    "ID": 114,
+    "Problem": "How does VEP87 use materiality findings to translate broad sustainability values into prioritized practices and future initiatives across operations and governance?",
+    "Solution": "Its double materiality work prioritizes environmental impact and circular resources, people and safety, ethical governance, supply-chain sustainability, and product innovation. VEPProFuture coordinates measurable communication, while planned actions include waste and emissions reductions, welfare and training, an ESG Committee, a Code of Ethics, whistleblowing, supplier ESG criteria, lifecycle assessment, and end-of-life pilots.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "B2"
+  },
+  {
+    "ID": 115,
+    "Problem": "What does VEP87's 2024 commuting survey reveal about decarbonisation priorities when employee transport choices are compared with their daily emissions?",
+    "Solution": "Among 41 respondents, 24 travelled by car, representing 59% of employees but about 80% of daily commuting emissions, or 77.12 of 96.32 kilograms of CO2. Bicycling and walking together accounted for 32% of the modal share with zero direct emissions. The mismatch between participation and emissions makes car commuting the principal mobility lever while showing that a substantial active-travel base already exists.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "B3"
+  },
+  {
+    "ID": 116,
+    "Problem": "How do VEP87's material and process choices reduce potential air and chemical pollution while supporting compliance in a light-manufacturing setting?",
+    "Solution": "VEP87 uses solvent-free, water-based polyurethane paints to reduce hazardous substances and volatile organic compounds, alongside powder coating and formaldehyde-free display materials. It supports these choices with risk assessments, fire-prevention documentation, an updated asbestos evaluation, indoor segregation of dusty processes, and controlled waste management.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "B4"
+  },
+  {
+    "ID": 117,
+    "Problem": "Why does VEP87 view its direct biodiversity pressure as limited while still identifying logistics and product end-of-life as areas requiring measurable improvement?",
+    "Solution": "The plant occupies an already developed industrial site, is not contiguous with the nearby Salse di Nirano protected area, conducts activities mainly indoors, and plans no greenfield expansion. Yet road logistics creates indirect noise and climate pressures, and displays lack a structured customer end-of-life system. Route optimization, possible intermodal transport, eco-design pilots, and annual land, logistics, and spill indicators address those indirect risks.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "B5"
+  },
+  {
+    "ID": 118,
+    "Problem": "How does VEP87 plan to turn a relatively low-impact water profile into a more reliable and manageable performance indicator during 2025 and 2026?",
+    "Solution": "In 2025 VEP87 plans departmental meters, monthly self-readings, and a cubic-metres-per-product-unit baseline. For 2026 it targets a 5% reduction in water intensity using aerators, controlled wet cleaning, preventive maintenance, and employee micro-training. Automatic alerts will flag monthly consumption more than 20% above the three-month moving average, triggering inspection within 15 business days.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "B6"
+  },
+  {
+    "ID": 119,
+    "Problem": "What do VEP87's 2023-to-2024 waste changes reveal about the tension between high recovery and worsening hazardous-waste intensity?",
+    "Solution": "Total waste rose from 164,644 to 186,060 kilograms, about 13%, and the hazardous share increased from 10.2% to 21.4%, even though the overall recovery rate remained about 95%. Process plastic waste rose 70%, while hazardous paints, solvents, and contaminated packaging also increased. VEP87 therefore targets lower waste per product unit, hazardous waste at or below 15%, solvent substitution, and tighter process KPIs.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "B7"
+  },
+  {
+    "ID": 120,
+    "Problem": "What does VEP87's three-year accident record suggest about the direction of occupational-safety performance, and what limitation remains when judging the trend?",
+    "Solution": "Recorded accidents increased from 2 in 2022 to 4 in 2023, then fell to 1 in 2024, with no severe or fatal injuries in the three-year period. The 2024 result indicates substantial improvement from the prior year and is consistent with greater safety attention, but the short series and absence of hours-worked rates limit conclusions about a sustained long-term trend.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "B9"
+  },
+  {
+    "ID": 121,
+    "Problem": "Why does VEP87's report not support a complete assessment of remuneration, collective-bargaining coverage, and training intensity despite describing workforce development plans?",
+    "Solution": "The report discusses wages, contributions, professional development, employee demand for more continuous training, and a plan for structured onboarding and sustainability and safety training. It does not disclose minimum-wage compliance, collective-bargaining coverage, a gender pay gap, or annual training hours per employee. Those B10 outcomes therefore cannot be quantified from the report.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "B10"
+  },
+  {
+    "ID": 122,
+    "Problem": "Why should VEP87's planned Code of Ethics and whistleblowing procedure not be interpreted as evidence of zero corruption convictions or fines in the reporting period?",
+    "Solution": "VEP87 states that the Code of Ethics, compliance policies, and whistleblowing procedures are being developed and places their adoption in its 2025-2026 plan. These are prospective governance controls. The report does not disclose the number of anti-corruption or anti-bribery convictions or the amount of fines, so a zero B11 outcome cannot be inferred from planned prevention measures.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "B11"
+  },
+  {
+    "ID": 123,
+    "Problem": "How does VEP87's business model link local economic value, product innovation, and international market exposure without distributing profits to shareholders?",
+    "Solution": "VEP87 directs most resources to local suppliers and services, wages and employee development, and reinvestment in innovation, energy efficiency, and production improvement rather than shareholder distributions. About 84% of suppliers are Italian while 32% of customers are abroad. Its NEXT material, representing 50% of production, reduces weight, energy demand, formaldehyde exposure, transport emissions, and production waste.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "C1"
+  },
+  {
+    "ID": 124,
+    "Problem": "How does VEP87's 2025-2026 sustainability plan assign measurable goals and cross-functional accountability instead of treating VEPProFuture as a communication-only programme?",
+    "Solution": "The plan sets quantified goals such as 10% less waste per product unit and hazardous waste at or below 15% by 2026, plus training, diversity, circular-design, and governance actions. Production manages waste and solvents; Sales and Marketing track sustainable-product revenue and customer feedback; Administration and ESG monitor indicators. An ESG Committee and management review quantitative KPIs and annual checks.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "C2"
+  },
+  {
+    "ID": 125,
+    "Problem": "Why do VEP87's photovoltaic installation and renewable-electricity recommendation not yet constitute a fully specified C3 greenhouse-gas reduction target?",
+    "Solution": "VEP87 has installed a 95 kWp photovoltaic system and recommends moving to 100% renewable electricity, while reporting preliminary electricity and gas emissions and developing intensity indicators. However, it does not give a company-wide GHG base-year value, quantified target-year reduction, scope coverage, or a dated transition pathway. The measures establish direction and data-building steps, not a complete target architecture.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "C3"
+  },
+  {
+    "ID": 126,
+    "Problem": "How does VEP87's double materiality approach connect climate-related operational continuity with financial relevance and the prioritization of environmental action?",
+    "Solution": "VEP87 scores topics for both impacts on people and the environment and effects on company finances. It recognizes that climate change can disrupt operations and that energy and waste management influence costs, compliance, reputation, financing, and resilience. This logic places reduced emissions and circular resource management at the top of its priorities and guides targets for waste, materials, logistics, and measurement.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "C4"
+  },
+  {
+    "ID": 127,
+    "Problem": "What workforce-diversity pattern emerges at VEP87 when company-wide gender, management parity, role segregation, nationality, and recent hiring are considered together?",
+    "Solution": "Women represent 21% of the 47 employees and men 79%, yet company management is evenly divided by gender. Women are more prevalent in clerical roles but absent from technical clerk, intermediate, and production-manager roles, while production workers are almost entirely men. About 47% of employees are foreign-born, and 2024 brought 13 hires, showing international diversity and growth alongside occupational gender segregation.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "C5"
+  },
+  {
+    "ID": 128,
+    "Problem": "How does VEP87's emerging supply-chain human-rights process combine current supplier engagement with controls that were still under development at the reporting date?",
+    "Solution": "VEP87 used ESG questionnaires to map key suppliers, prioritised certifications and transparency, and stated that its developing Code of Ethics would extend integrity, safety, and human-rights expectations to the supply chain. It planned stronger ESG audits, formal evaluation criteria, supplier KPIs, and whistleblowing. The process therefore had an engagement and mapping foundation, but its formal policy and grievance controls were not yet fully implemented.",
+    "Report": "VEP87 S.a.s. 2024",
+    "VSME Module": "C6"
+  },
+  {
+    "ID": 129,
+    "Problem": "How does PwC Slovakia's 2024 reporting boundary align sustainability data across five entities while creating one deliberate difference from a subsidiary's financial period?",
+    "Solution": "The report covers five PwC Slovakia legal entities and applies the calendar year from 1 January to 31 December 2024 to all qualitative and quantitative sustainability data. That period matches the annual-report cycle except for CEE Firm Services, whose financial year runs from 1 July 2023 to 30 June 2024. Its sustainability data is aligned to the other Slovak entities for consolidation rather than to its own financial period.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "B1"
+  },
+  {
+    "ID": 130,
+    "Problem": "How does PwC Slovakia convert broad environmental, social, and governance commitments into policies, targets, monitoring, and future reporting development?",
+    "Solution": "Environmental commitments are implemented through ISO 14001, environmental and travel policies, waste directives, SBTi targets, renewable energy, and supplier expectations. Social practices use the Code of Conduct, We Care, development and wellbeing programmes, while governance uses independence, anti-corruption, data-protection, and complaints policies. Targets cover emissions, waste, employee outcomes, and zero misconduct, and the CEE firm plans an ESRS report for financial year 2025.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "B2"
+  },
+  {
+    "ID": 131,
+    "Problem": "How can PwC Slovakia report zero market-based Scope 1 and Scope 2 emissions while its total market-based footprint rose from 2023 to 2024?",
+    "Solution": "Scope 1 was zero because PwC had no company vehicles, and renewable electricity produced zero market-based Scope 2 emissions. Yet market-based total emissions rose from 271.79 to 313.00 tonnes of CO2e because Scope 3 increased, especially business travel, which reached 301.92 tonnes and represented 86% of the location-based footprint. Operational energy decarbonisation therefore did not eliminate value-chain emissions growth.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "B3"
+  },
+  {
+    "ID": 132,
+    "Problem": "Why does PwC Slovakia omit quantitative air, water, and soil pollutant data, and how does its business model support the materiality judgment behind that choice?",
+    "Solution": "PwC Slovakia is a non-manufacturing professional-services company whose operations are office-based and have minimal direct pollution impact. It is not legally required to report pollutant emissions through an environmental management system and therefore does not disclose those figures. The omission reflects the limited relevance of direct air, water, and soil pollution to its operating model.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "B4"
+  },
+  {
+    "ID": 133,
+    "Problem": "Why does PwC Slovakia's forestry volunteering not change its conclusion that no biodiversity-sensitive sites require quantitative B5 reporting?",
+    "Solution": "PwC states that it does not own, lease, or manage sites near biodiversity-sensitive areas, so it does not report land-use or proximity metrics under B5. Separately, 16 employees contributed 96 volunteer hours to a local sustainable-forestry project. That activity is a positive community contribution, but it does not create or alter the company's direct operational land exposure.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "B5"
+  },
+  {
+    "ID": 134,
+    "Problem": "Why does PwC Slovakia omit quantitative water data, and what boundary of its office-based business model supports that decision?",
+    "Solution": "PwC is a non-manufacturing professional-services firm operating rented offices and has no production processes that consume significant water. It therefore states that it does not report water information under B6. The omission concerns the materiality of process water to its own operations; it should not be read as evidence that offices use no water at all.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "B6"
+  },
+  {
+    "ID": 135,
+    "Problem": "What does PwC Slovakia's 2023-to-2024 workforce movement reveal when total headcount, working-time categories, gender, and turnover are evaluated together?",
+    "Solution": "Headcount fell from 997 to 950. Full-time employees declined from 842 to 820, part-time employees from 75 to 70, and employees with non-guaranteed hours from 80 to 60. Women decreased from 571 to 562 and men from 426 to 388, while turnover was 24.2%. The contraction affected every working-time category and both genders, with substantial employee movement during the year.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "B8"
+  },
+  {
+    "ID": 136,
+    "Problem": "How does PwC Slovakia reconcile a zero occupational-accident rate with its identification of burnout as the most significant workforce health-and-safety risk?",
+    "Solution": "No employee work-related accident or fatality occurred in 2024, so the disclosed accident rate was zero. PwC nevertheless monitors overtime and treats burnout as its main health risk, addressing it through Be Well, Work Well, Activate Yourself, coaching, and confidential counselling. Two hundred employees used Activate Yourself, while 287 employees received 945 coaching consultations, showing that safety management extends beyond physical incidents.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "B9"
+  },
+  {
+    "ID": 137,
+    "Problem": "How should PwC Slovakia's zero anti-corruption convictions and fines in 2024 be interpreted in light of the preparation required of its workforce?",
+    "Solution": "PwC Slovakia reported no confirmed corruption cases, final convictions, or fines under anti-corruption and anti-bribery laws. It also stated that all employees were trained and instructed in the relevant rules and procedures. The zero outcome is therefore disclosed alongside a company-wide preventive training requirement rather than without supporting compliance activity.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "B11"
+  },
+  {
+    "ID": 138,
+    "Problem": "How does PwC Slovakia's 2024 business-travel performance compare with its 2030 climate target, and why is travel central to the reduction pathway?",
+    "Solution": "Business travel is the largest part of PwC Slovakia's carbon footprint. Against the 2019 base year, the firm aims to reduce travel emissions by 50% by 2030. By the end of 2024 it had reduced those emissions by more than 37% and kilometres travelled by more than 47%, showing substantial progress but leaving a further gap to the 2030 emissions target.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "C3"
+  },
+  {
+    "ID": 139,
+    "Problem": "What is the correct interpretation of PwC Slovakia reporting no identified climate risks or transition events while also operating without a climate transition plan?",
+    "Solution": "PwC states that it is not in a high-climate-impact sector, has identified no climate hazards or transition events, and therefore has no climate transition plan. This is a disclosure of the assessment result, not proof that climate change can never affect the firm. PwC still treats its emissions as material enough for SBTi targets, travel reduction, renewable electricity, and client climate-risk services.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "C4"
+  },
+  {
+    "ID": 140,
+    "Problem": "What does the change in PwC Slovakia's top-management gender ratio from 2023 to 2024 indicate, and why does the result still represent a significant imbalance?",
+    "Solution": "The female-to-male ratio improved from 1:3.8 in 2023 to 1:3.6 in 2024, so female representation increased slightly relative to men. However, 3.6 men remained for every woman in top management, meaning leadership was still strongly male-dominated despite the modest year-on-year improvement.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "C5"
+  },
+  {
+    "ID": 141,
+    "Problem": "How does PwC Slovakia's human-rights and ethics system combine contractual standards, annual confirmation, multiple reporting channels, and time-bound case handling?",
+    "Solution": "A global Code of Conduct is binding through employee, client, and supplier contracts, and employees complete an annual confirmation covering ethics, independence, and conflicts. Concerns can go to the ethics team, a 24-hour regional helpline, or an anonymous mailbox. Complaints are acknowledged within seven days and normally investigated within three months, with six months allowed in justified cases and protection against retaliation.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "C6"
+  },
+  {
+    "ID": 142,
+    "Problem": "What is the breadth of PwC Slovakia's zero confirmed human-rights incident disclosure, and how does it extend to client privacy and data protection?",
+    "Solution": "PwC Slovakia reported no confirmed human-rights violations by employees and no known confirmed incidents involving value-chain workers, affected communities, or clients. It also found no substantiated complaints concerning client privacy, loss of client data under the GDPR, or client data-protection concerns in 2024. The disclosure therefore covers both people-related harms and specified information-rights issues.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "C7"
+  },
+  {
+    "ID": 143,
+    "Problem": "How does PwC Slovakia's revenue profile support its status under the VSME sensitive-sector and Paris-aligned benchmark disclosure?",
+    "Solution": "PwC Slovakia does not sell weapons, tobacco products, or fossil fuels and does not produce chemicals, so it generated no revenue from the listed sensitive sectors. It also stated that it is not excluded from any EU reference benchmark aligned with the Paris Agreement. Its professional-services model therefore falls outside the specified sensitive revenue activities.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "C8"
+  },
+  {
+    "ID": 144,
+    "Problem": "How did gender representation on PwC Slovakia's supervisory boards change between 2023 and 2024, and how does this board-level measure differ from simple headcount parity?",
+    "Solution": "The governance-body ratio improved from one woman for every 3.25 men in 2023 to one woman for every 2.75 men in 2024. This shows increased female representation, but men still substantially outnumbered women. The measure concerns partners serving on the supervisory boards, not the gender composition of the total workforce.",
+    "Report": "PwC Slovakia 2024",
+    "VSME Module": "C9"
+  },
+  {
+    "ID": 145,
+    "Problem": "How do Coroplast's consolidation boundary and current-period-only approach shape the comparability and completeness of its 2025 sustainability disclosures?",
+    "Solution": "The report consolidates all relevant entities in the Coroplast Group and covers 1 January through 31 December 2025, providing a Group-wide ESG view. It carries forward no unchanged disclosures from earlier periods, so every statement is intended to reflect the current reporting period. This strengthens current-period relevance but means readers cannot assume that omitted prior disclosures remained unchanged.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "B1"
+  },
+  {
+    "ID": 146,
+    "Problem": "How does Coroplast use double materiality and certified management systems to convert sustainability from a broad strategy into prioritized and controlled implementation?",
+    "Solution": "The double materiality assessment identified climate change, circular economy, own workforce, value-chain workers, and business conduct as material, directing targets, policies, and measures. All sites use IATF 16949 systems, many use ISO 14001, ISO 50001, and ISO 9001, and Wuppertal also holds ISO 45001. These systems add defined processes, audits, and continual improvement to strategic priorities.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "B2"
+  },
+  {
+    "ID": 147,
+    "Problem": "How do Coroplast's 2025 electricity mix and market-based emissions results show progress toward its 2030 target while also demonstrating that the target had not yet been achieved?",
+    "Solution": "Renewable electricity was 30,237 of 54,477 MWh, about 55.5% of total electricity. Market-based Scope 1 and 2 emissions fell from 28,695 tonnes in the 2022 base year to 16,590 tonnes in 2025, a reduction of about 42.2%. This is substantial progress toward the 50% reduction target for 2030, but the remaining gap means the target was not yet reached.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "B3"
+  },
+  {
+    "ID": 148,
+    "Problem": "What do Coroplast's 2025 Scope 3 results reveal about the scale and concentration of value-chain emissions relative to its operational market-based footprint?",
+    "Solution": "Coroplast reported 265,789 tonnes of Scope 3 emissions, about 16 times its 16,590 tonnes of market-based Scope 1 and Scope 2 emissions. Purchased goods and services contributed 206,939 tonnes, nearly 78% of Scope 3. The value chain is therefore the dominant footprint, but quantified Scope 3 reduction targets had not yet been set, explaining the plan to improve data and expand the transition pathway beyond operations.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "B3"
+  },
+  {
+    "ID": 149,
+    "Problem": "Why does Coroplast's decision not to provide detailed pollution and water-withdrawal disclosures not support a conclusion that these impacts are zero?",
+    "Solution": "Coroplast assessed air, water, and soil pollution and water withdrawal through its double materiality process and judged them non-material for the Group. Under the VSME approach it therefore omitted detailed disclosures. Non-materiality means the topics were not prioritised for extensive reporting; it does not quantify the impacts and cannot be converted into a claim of zero pollutants or zero water use.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "B4"
+  },
+  {
+    "ID": 150,
+    "Problem": "How does Coroplast distinguish its current circular-economy practices from the more systematic life-cycle integration it intends to develop in future?",
+    "Solution": "Current priorities are resource efficiency, waste prevention, and gradually increasing recycled materials and bio-based plastics where technically and economically feasible. Coroplast states that implementation is still in development. It plans to embed circular principles more systematically in product development, procurement, and supply-chain management so resource use and material loops are managed across the full product life cycle.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "B7"
+  },
+  {
+    "ID": 151,
+    "Problem": "What limitations must be considered when combining Coroplast's global workforce size with the detailed contract and gender data disclosed for Germany in 2025?",
+    "Solution": "Coroplast reported an average global headcount of 6,808, but internationally consistent detailed workforce data was not yet available. The contract and gender disclosures mainly cover Germany, where 1,125 employees included 1,003 permanent and 122 temporary contracts, and 198 women and 927 men. Those detailed proportions therefore should not be generalized to the entire global workforce.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "B8"
+  },
+  {
+    "ID": 152,
+    "Problem": "How should Coroplast's 2025 occupational-safety performance be assessed when reportable accidents, temporary agency workers, fatalities, and the stated accident rate are considered together?",
+    "Solution": "Coroplast recorded 28 reportable occupational accidents among employees plus one involving a temporary agency worker. It reported no fatalities from work-related injury or occupational illness. The stated accident rate was 3.34 and excluded temporary agency workers, so the separate agency-worker accident must be retained when interpreting the full incident picture.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "B9"
+  },
+  {
+    "ID": 153,
+    "Problem": "How should Coroplast's zero convictions and fines in 2025 be interpreted in relation to the preventive and detection controls described in its business-conduct system?",
+    "Solution": "Coroplast reported no convictions and no monetary fines during the period. Its Code of Conduct prohibits corruption and bribery, conflicts of interest, money laundering, and other misconduct, while a confidential whistleblower system is open to employees and external stakeholders and protects reporters from retaliation. The zero legal outcome is therefore presented within a broader prevention and detection framework.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "B11"
+  },
+  {
+    "ID": 154,
+    "Problem": "How does Coroplast's three-business-unit model connect product specialisation, international production, and long-term industrial relationships across its value chain?",
+    "Solution": "Coroplast Tape supplies technical adhesive solutions, Coroflex develops cables and wires for e-mobility and industrial uses, and WeWire makes customised wire harnesses and injection-moulded components for automotive manufacturers and Tier-1 suppliers. Production and sales span Germany, Poland, China, Tunisia, Mexico, and the United States. Strategic raw-material suppliers and direct, long-term industrial customer relationships support technical collaboration and reliable supply.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "C1"
+  },
+  {
+    "ID": 155,
+    "Problem": "How will Coroplast's planned Sustainability Management Manual change the governance of its existing policies, targets, and site-level management systems?",
+    "Solution": "The 2026 manual is intended to standardise the Group's strategic direction, ambitions, roles, responsibilities, and processes in one reference framework. It will integrate existing EHS policies, certified management systems, climate time horizons to 2030 and 2050, and due-diligence tools. The management board already approves objectives and priorities, so the manual is designed to translate central accountability into more consistent implementation across sites.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "C2"
+  },
+  {
+    "ID": 156,
+    "Problem": "What does Coroplast's country distribution reveal about workforce concentration, and why must the German turnover rate be kept separate from the global headcount?",
+    "Solution": "Average global headcount was 6,808, with Tunisia employing 2,168 and Mexico 1,823, together about 59% of the total. Germany averaged 1,215 employees, while the disclosed 14.44% turnover rate applies to Germany and detailed internationally consistent workforce processes were still being built. The German rate therefore cannot be treated as the turnover rate for the much larger global workforce.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "C5"
+  },
+  {
+    "ID": 157,
+    "Problem": "How broad is Coroplast's zero severe human-rights incident disclosure, and what reporting-boundary limitation should accompany that result?",
+    "Solution": "Coroplast was unaware of confirmed severe human-rights violations in its own workforce and of confirmed incidents involving value-chain workers, affected communities, consumers, or end users. The statement spans both operations and external stakeholder groups. However, quantitative data on workers in the value chain was outside the reporting scope, so the zero incident disclosure should not be mistaken for complete quantitative coverage of that workforce.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "C7"
+  },
+  {
+    "ID": 158,
+    "Problem": "What does Coroplast's zero sensitive-sector revenue disclosure establish about the Group's relationship to controversial weapons, tobacco, coal, oil, and gas activities?",
+    "Solution": "Coroplast reported no revenue from controversial weapons, tobacco cultivation or production, coal, crude oil, or natural-gas activities in 2025. Although its industrial businesses produce tapes, cables, wires, and wiring harnesses for sectors including automotive manufacturing, those product lines did not generate revenue from the sensitive activities specified by the VSME disclosure.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "C8"
+  },
+  {
+    "ID": 159,
+    "Problem": "What conclusion can be drawn from Coroplast's C8 disclosure, and which Paris-aligned benchmark conclusion remains unsupported by the report?",
+    "Solution": "The report supports the conclusion that Coroplast generated no revenue in 2025 from controversial weapons, tobacco cultivation or production, coal, crude oil, or natural-gas activities. It does not state whether the Group is excluded from any EU reference benchmark aligned with the Paris Agreement. That separate benchmark status therefore cannot be inferred from the zero-revenue disclosure alone.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "C8"
+  },
+  {
+    "ID": 160,
+    "Problem": "How should Coroplast's governance-body gender diversity ratio of 0.5 be translated into actual representation, and what imbalance does it reveal?",
+    "Solution": "The relevant administrative, management, and supervisory body comprised one woman and two men. Dividing the number of women by the number of men gives the reported ratio of 0.5. Women therefore held one of three positions, while men held two, showing female representation but not gender parity.",
+    "Report": "Coroplast Group 2025",
+    "VSME Module": "C9"
+  },
+  {
+    "ID": 161,
+    "Problem": "An undertaking selects the Basic and Comprehensive Modules, reports on a consolidated basis, omits a protected datapoint, and leaves out an if applicable item. How must B1 distinguish these choices, and what does each omission imply?",
+    "Solution": "It shall declare OPTION B and make an explicit statement of compliance, identify that the report is consolidated, and list the covered subsidiaries with their registered addresses. It shall identify each disclosure omitted under the protection in paragraph 22 and reassess that protection at every reporting date. By contrast, omission of an if applicable item is taken to mean that the specified circumstances are not applicable. Apart from such conditional items, each selected module must be complied with in its entirety.",
+    "VS Module": "B1"
+  },
+  {
+    "ID": 162,
+    "Problem": "How should an undertaking distinguish a water-saving operating measure, an approved sustainability framework, a planned emissions project, and a measurable implementation goal under B2, and what common purpose links them?",
+    "Solution": "The operating measure is a practice, the approved framework is a policy, the planned project is a future initiative or forward-looking plan, and the measurable goal is a target used to monitor policy implementation. The undertaking shall state whether it has each type; for policies, it shall also indicate public availability and any separate environmental, social or governance policies. Together, they describe how the undertaking reduces negative impacts and enhances positive impacts on people and the environment.",
+    "VS Module": "B2"
+  },
+  {
+    "ID": 163,
+    "Problem": "An undertaking with eight employees uses purchased electricity and company-owned fuel sources. What is voluntary under B3, which emissions scopes apply, and how should the energy and greenhouse-gas totals be expressed if it reports them?",
+    "Solution": "For an undertaking with 10 employees or less, total energy consumption and estimated absolute gross GHG emissions are voluntary. If reported, total energy consumption is expressed in MWh and, where the necessary information is obtainable, broken down by renewable and non-renewable electricity and fuels. GHG emissions are expressed in metric tonnes of CO2 equivalent and include Scope 1 from owned or controlled sources and location-based Scope 2 from purchased electricity, heat, steam or cooling. Annex II marks these two datapoints as value-chain-cap disclosures for undertakings with more than 10 employees, not for the smaller group for which they are voluntary.",
+    "VS Module": "B3"
+  },
+  {
+    "ID": 164,
+    "Problem": "An undertaking has no pollutant-reporting duty, makes no voluntary pollutant disclosure through an environmental management system, but publishes general environmental claims. What must it report under B4, and when may it use a link?",
+    "Solution": "B4 covers emissions of pollutants to air, water and soil from the undertaking's own operations that it is required to report to competent authorities under EU or national law, or that it voluntarily reports through an Environmental Management System. General environmental claims alone do not create a B4 pollutant disclosure. If the qualifying information is already publicly available, the undertaking may refer to the document in which it is reported, for example through a relevant URL or hyperlink.",
+    "VS Module": "B4"
+  },
+  {
+    "ID": 165,
+    "Problem": "A site lies outside and is not adjacent to a protected area, yet its activity-specific area of influence reaches the protected boundary. How does the Standard treat near for B5, and what information must be disclosed?",
+    "Solution": "Near includes a site that partly overlaps or is adjacent to a biodiversity-sensitive area. A site that is outside and not adjacent may also be treated as near when its defined area of influence reaches the area. That influence may be determined using activity-specific buffer distances based on regulatory requirements, science-based recommendations and industry best practice. Because protected areas are biodiversity-sensitive areas, the undertaking shall disclose the relevant site or location and the name of the biodiversity-sensitive area.",
+    "VS Module": "B5"
+  },
+  {
+    "ID": 166,
+    "Problem": "A manufacturer withdraws 9,000 cubic metres of water and discharges 6,400 cubic metres from water-intensive production; 700 cubic metres of the resulting consumption occurs at water-stressed sites. How should it derive and present B6?",
+    "Solution": "It reports total water withdrawal of 9,000 cubic metres. Because the production processes significantly consume water, water consumption is the difference between withdrawal and discharge: 9,000 minus 6,400, or 2,600 cubic metres. It also separately presents the 700 cubic metres consumed at sites in areas with water stress. For an undertaking with 10 employees or less, each of these B6 datapoints is voluntary; Annex II marks total water withdrawal as a value-chain-cap disclosure only for undertakings with more than 10 employees.",
+    "VS Module": "B6"
+  },
+  {
+    "ID": 167,
+    "Problem": "How do B7 requirements differ for a manufacturer that applies circular principles and uses significant material flows, compared with a service undertaking that applies no such principles and has no significant material flows?",
+    "Solution": "The manufacturer discloses that it applies circular economy principles and explains how; it also reports total waste by hazardous and non-hazardous weight, the proportion diverted to recycling or preparation for reuse, and the annual mass-flow of relevant materials. The service undertaking states that it does not apply circular economy principles and, if it has more than 10 employees, still reports the two waste metrics, but it need not report a material mass-flow when that circumstance is absent. For undertakings with 10 employees or less, the B7 datapoints are voluntary. Annex II covers the circular-principles statement and the two waste metrics for the over-10 group, but does not list the material mass-flow datapoint.",
+    "VS Module": "B7"
+  },
+  {
+    "ID": 168,
+    "Problem": "A company operating in three countries reports employee numbers by contract type and gender but not by country. What additional B8 breakdown is required, which measurement bases are permitted, and which datapoints does Annex II cover for both size groups?",
+    "Solution": "Because it operates in more than one country, the company shall also break down employee numbers by the country of the employment contract. B8 permits employee numbers to be stated in headcount or full-time equivalents for contract type, gender and, where applicable, country. Annex II identifies the contract-type and gender breakdowns as value-chain-cap disclosures for both undertakings with 10 employees or less and undertakings with more than 10 employees; it does not list the country breakdown.",
+    "VS Module": "B8"
+  },
+  {
+    "ID": 169,
+    "Problem": "During the year, one work accident causes two days of absence, another causes four days, and work-related ill health causes one day of absence; nobody dies. Which cases are recordable, and what must B9 disclose?",
+    "Solution": "The two-day accident is not recordable because an accident is recordable only if it causes death or more than three days of absence. The four-day accident is recordable. The ill-health case is also recordable because work-related ill health is recordable when it causes death or any absence from work. B9 requires the number and rate of recordable work-related accidents, so one accident enters that metric. Subject to legal restrictions, it also requires the combined fatalities from recordable accidents and recordable ill health, which is zero here; it does not require the number or rate of non-fatal ill-health cases.",
+    "VS Module": "B9"
+  },
+  {
+    "ID": 170,
+    "Problem": "An undertaking pays the statutory minimum, has no collective agreement, is not legally required to publish a gender pay gap, and records employee training. How should B10 treat each matter, and which datapoints are cap-covered for both size groups?",
+    "Solution": "It discloses that employees receive pay equal to or above the applicable minimum wage, reports 0% coverage by collective bargaining agreements, and reports the average annual training hours per employee. It need not disclose the female-to-male pay gap because that datapoint applies only when EU law or other national regulation already requires the undertaking to report it. Annex II covers the minimum-pay answer, collective-bargaining coverage and average training hours for both size groups; it does not list the conditional pay-gap datapoint.",
+    "VS Module": "B10"
+  },
+  {
+    "ID": 171,
+    "Problem": "An undertaking receives two anti-bribery convictions and three fines during the reporting period, while also describing extensive preventive controls. What quantitative information is required by B11, and what does not replace it?",
+    "Solution": "The undertaking shall disclose two convictions and the total monetary amount of all fines incurred for violations of anti-corruption and anti-bribery laws during the reporting period. B11 asks for the number of convictions, not the number of fines. Descriptions of preventive controls may provide additional context, but they do not replace either required quantitative datapoint when convictions and fines occurred.",
+    "VS Module": "B11"
+  },
+  {
+    "ID": 172,
+    "Problem": "An undertaking with eight employees applies the Comprehensive Module and describes only sustainability-related strategy elements, omitting products, markets and main business relationships. How do Annex I and Annex II frame the four C1 elements?",
+    "Solution": "For an undertaking with 10 employees or less, all four C1 elements are voluntary: significant products or services, significant markets, main business relationships, and any key strategy elements that relate to or affect sustainability issues. For an undertaking with more than 10 employees, C1 requires the first three descriptions and a brief description of sustainability-related strategy elements when such elements exist. Annex II lists products or services, markets and business relationships as value-chain-cap disclosures for the over-10 group, but it does not list the sustainability-related strategy element.",
+    "VS Module": "C1"
+  },
+  {
+    "ID": 173,
+    "Problem": "An undertaking has already listed a supplier-focused practice, a public policy, a future initiative and policy targets under B2. What additional description does C2 require, and which governance detail remains optional?",
+    "Solution": "C2 requires the undertaking to briefly describe the practices, policies and future initiatives already reported under B2, rather than merely state that they exist. It shall mention when any practice, policy or initiative covers suppliers or clients, and it shall briefly describe targets identified under B2 for monitoring policy implementation. The undertaking may, but is not required to, identify the most senior person or body accountable for implementation when it has determined that responsibility.",
+    "VS Module": "C2"
+  },
+  {
+    "ID": 174,
+    "Problem": "A high-climate-impact undertaking has absolute Scope 1 and Scope 2 targets, a target for significant Scope 3 emissions, and no climate-mitigation transition plan. What target details and transition-plan statements are required under C3?",
+    "Solution": "For each relevant target, it discloses the target year and target-year value, the base year and base-year value, the units used, the share of Scope 1, Scope 2 and, where disclosed, Scope 3 covered, and the main actions intended to achieve the targets. Because it has set a Scope 3 target, that target covers significant Scope 3 emissions. As an undertaking in a high-climate-impact sector without a mitigation transition plan, it shall state whether it will adopt such a plan and, if so, when. If it had a plan, information on the plan and how it contributes to reducing GHG emissions would be voluntary. C3 is voluntary for undertakings with 10 employees or less.",
+    "VS Module": "C3"
+  },
+  {
+    "ID": 175,
+    "Problem": "An undertaking identifies both a flood hazard and a regulatory transition event but reports only that each climate risk is medium. Why is this insufficient under C4, and what assessment and response information is still needed?",
+    "Solution": "Once the hazards and transition events create climate-related risks, C4 requires more than a rating. The undertaking shall briefly describe them, explain how it assessed the exposure and sensitivity of its assets, activities and value chain, state the time horizons identified, and disclose whether it has undertaken adaptation actions for each hazard or event. It may additionally describe potential adverse effects on financial performance or business operations over the short, medium or long term and rate the risks high, medium or low. That optional rating does not replace the required analysis. C4 is voluntary for undertakings with 10 employees or less.",
+    "VS Module": "C4"
+  },
+  {
+    "ID": 176,
+    "Problem": "An undertaking with 25 employees reports a female-to-male management ratio and counts exclusive self-employed and agency workers, but omits employee turnover. How do C5 and Annex II distinguish these three datapoints?",
+    "Solution": "With more than 10 employees, the undertaking shall disclose its employee turnover rate for the reporting period. The female-to-male ratio at management level and the numbers of exclusive self-employed persons and temporary workers supplied by employment undertakings are optional disclosures. Annex II identifies only the employee turnover rate as a C5 value-chain-cap disclosure for undertakings with more than 10 employees. For undertakings with 10 employees or less, turnover itself is voluntary and Annex II does not mark it as cap-covered.",
+    "VS Module": "C5"
+  },
+  {
+    "ID": 177,
+    "Problem": "An undertaking answers yes to having a human rights policy but gives only a general statement and says nothing about complaints. What structured C6 answers are required, and which two datapoints are cap-covered for undertakings over ten employees?",
+    "Solution": "It shall answer YES or NO on whether it has a code of conduct or human rights policy for its own workforce. Because the answer is YES, it then gives separate YES or NO answers for child labour, forced labour, human trafficking, discrimination, accident prevention and any other coverage, specifying the other topic when applicable. It also gives a separate YES or NO answer on a complaints-handling mechanism for its own workforce. Annex II marks the existence of the policy or code and the complaints mechanism as value-chain-cap disclosures for undertakings with more than 10 employees. Those two questions are voluntary for undertakings with 10 employees or less.",
+    "VS Module": "C6"
+  },
+  {
+    "ID": 178,
+    "Problem": "How must C7 distinguish a confirmed discrimination incident among employees from a confirmed incident affecting a supplier's worker, and what follow-up information is mandatory or optional for each?",
+    "Solution": "The employee case is reported through a YES or NO answer for confirmed discrimination incidents in the undertaking's own workforce. If the answer is YES, the undertaking may describe the actions taken to address it, so that action narrative is optional. The supplier's worker is a worker in the value chain: the undertaking answers whether it is aware of a confirmed incident identified in the reporting period and, if YES, shall specify it. The own-workforce and value-chain incident questions are voluntary for undertakings with 10 employees or less; Annex II marks both as cap-covered for undertakings with more than 10 employees.",
+    "VS Module": "C7"
+  },
+  {
+    "ID": 179,
+    "Problem": "An undertaking earns revenue from oil, gas and chemical production under NACE Division 20.2, while selling equipment to tobacco growers. Which revenues fall within C8, and how must the fossil-fuel amount be presented?",
+    "Solution": "It discloses the related revenues from fossil-fuel activities and disaggregates them into coal, oil and gas, showing the oil and gas amounts separately and no coal amount if none exists. It also discloses the revenue related to chemicals production because its activity falls under NACE Division 20.2. Revenue from selling equipment to tobacco growers is not revenue from the undertaking's own cultivation or production of tobacco, so that fact alone does not fall within the tobacco category. C8 also applies to related revenue from the prohibited-weapons industry when present.",
+    "VS Module": "C8"
+  },
+  {
+    "ID": 180,
+    "Problem": "An undertaking has no governance body but has a management team and reports the C5 female-to-male management ratio. Does C9 require another gender ratio, and why are the two disclosures not interchangeable?",
+    "Solution": "C9 applies only if the undertaking has a governance body in place. Because none exists, no C9 governance-body gender diversity ratio is required. The C5 female-to-male ratio concerns management level and is optional; it does not create a governance body and cannot substitute for C9 when a governance body exists. If such a body were in place, the undertaking would disclose the gender diversity ratio for that body regardless of whether it also chose to report the C5 management ratio.",
+    "VS Module": "C9"
+  },
+    {
+    "ID": 181,
+    "Problem": "How must an undertaking using OPTION B report a consolidated basis, a paragraph 22 omission and an obtained sustainability label, while respecting the different disclosure conditions?",
+    "Solution": "The undertaking shall make an explicit statement of compliance using OPTION B: Basic Module and Comprehensive Module, and it shall comply with both modules in their entirety, subject to the if applicable principle. It shall state that the report is consolidated, list the covered subsidiaries and their registered addresses, provide the general undertaking information required by B1, and identify each disclosure omitted under paragraph 22. Because it has obtained a sustainability-related label, it shall also briefly describe the label, including the issuer, date and rating score where relevant. Annex II lists the selected module option, reporting basis and general undertaking information as value-chain-cap disclosures for undertakings both with 10 employees or fewer and with more than 10 employees.",
+    "VS Module": "B1"
+  },
+  {
+    "ID": 182,
+    "Problem": "How should an undertaking distinguish a water-saving operating measure, a public environmental policy, a planned pollution project and a quantified implementation goal under B2?",
+    "Solution": "It shall first state that it has specific practices, policies or future initiatives for the transition towards a more sustainable economy. The water-saving measure is a practice; the public environmental framework is a policy whose public availability shall be stated; the planned pollution project is a future initiative or forward-looking plan being implemented; and the quantified goal is a target used to monitor policy implementation. The disclosure should explain how these items reduce negative impacts or enhance positive impacts on people and the environment. If the Comprehensive Module is also reported, B2 shall be complemented with C2.",
+    "VS Module": "B2"
+  },
+  {
+    "ID": 183,
+    "Problem": "What changes under B3 when an undertaking has eight employees, and how should energy and Scope 1 and Scope 2 data be presented if it chooses to report them?",
+    "Solution": "For an undertaking with 10 employees or fewer, total energy consumption and estimated absolute gross GHG emissions are voluntary. If reported, total energy consumption is presented in MWh; a renewable and non-renewable breakdown for electricity and fuels is also disclosed if the necessary information can be obtained. Estimated absolute gross emissions are presented in tCO2eq and include Scope 1 emissions from owned or controlled sources and location-based Scope 2 emissions from purchased energy. Annex II lists total energy consumption and estimated gross GHG emissions as value-chain-cap datapoints only for undertakings with more than 10 employees.",
+    "VS Module": "B3"
+  },
+  {
+    "ID": 184,
+    "Problem": "How does B4 determine which own-operation pollutant emissions must be disclosed when some are legally reported, others enter an environmental management system, and the data are already public?",
+    "Solution": "The undertaking shall disclose emissions of pollutants to air, water and soil from its own operations when it is required to report them to competent authorities under EU or national law or when it reports them voluntarily through an Environmental Management System. It is not required by B4 to add other pollutant emissions merely because they exist. If the required information is already publicly available, the undertaking may instead refer to the document in which it is reported, for example through the relevant URL or an embedded hyperlink.",
+    "VS Module": "B4"
+  },
+  {
+    "ID": 185,
+    "Problem": "How should an undertaking decide whether a site outside a biodiversity-sensitive area is nevertheless 'near' it, and what information follows if the condition is met?",
+    "Solution": "A site is near a biodiversity-sensitive area when it partially overlaps or is adjacent to that area. If it is outside and not adjacent, the undertaking may still determine nearness by defining the site's area of influence, using activity-specific buffer distances based on regulatory requirements, science-based recommendations and industry best practice. If a site or location is in or near a biodiversity-sensitive area, the undertaking shall disclose the site or location and the name of the biodiversity-sensitive area.",
+    "VS Module": "B5"
+  },
+  {
+    "ID": 186,
+    "Problem": "What must a 12-employee manufacturer disclose if it withdraws 1,000 units of water, discharges 700 from water-intensive production, and consumes 100 of the remainder at water-stressed sites?",
+    "Solution": "It shall disclose total water withdrawal of 1,000 units. Because its production processes significantly consume water, it shall also disclose water consumption of 300 units, calculated as withdrawal of 1,000 less discharge of 700. Of that consumption, 100 units shall be presented separately as consumed at sites in areas with water stress. Annex II covers total water withdrawal under the value chain cap for undertakings with more than 10 employees, but it does not list the production-process consumption or water-stress breakdown.",
+    "VS Module": "B6"
+  },
+  {
+    "ID": 187,
+    "Problem": "How should a 50-employee manufacturer report 100 tonnes of waste, including 20 hazardous tonnes, when 60 tonnes are recycled and 10 are prepared for reuse, and it has significant material flows?",
+    "Solution": "It shall state whether it applies circular economy principles and, if so, explain how. It shall report 100 tonnes of waste generated, broken down into 20 tonnes of hazardous waste and 80 tonnes of non-hazardous waste. The proportion diverted to recycling or preparation for reuse is 70%, because 70 of 100 tonnes follow those routes. As a manufacturer using significant material flows, it shall also disclose the annual mass-flow of relevant materials used. Annex II lists the circular-economy statement, waste weight and diversion proportion under the cap for undertakings with more than 10 employees, but not the material mass-flow datapoint.",
+    "VS Module": "B7"
+  },
+  {
+    "ID": 188,
+    "Problem": "How do B8 and Annex II differ when a multi-country undertaking elects headcount rather than full-time equivalents to describe employees by contract, gender and country?",
+    "Solution": "B8 permits either headcount or full-time equivalents, but the chosen basis shall be used to disclose employees by temporary or permanent contract, by gender and, because the undertaking operates in more than one country, by country of the employment contract. Annex II identifies the contract-type and gender counts as value-chain-cap datapoints for undertakings both with 10 employees or fewer and with more than 10 employees. It does not list the country breakdown as a cap datapoint.",
+    "VS Module": "B8"
+  },
+  {
+    "ID": 189,
+    "Problem": "Which events enter B9 if one work accident causes exactly three days' absence, a discrete work-related mental harm causes four days' absence, and work-related ill health causes one non-fatal absence?",
+    "Solution": "The accident causing exactly three days of absence is not recordable under the Standard, which requires death or more than three days of absence. The discrete occurrence causing work-related mental harm and four days of absence is one recordable work-related accident, so it enters the disclosed number and rate. The non-fatal ill-health case is recordable ill health because it caused absence, but B9 does not add non-fatal ill-health cases to the accident count; it combines ill health with accidents only when disclosing the sum of fatalities, subject to legal restrictions. On these facts that fatality sum is zero.",
+    "VS Module": "B9"
+  },
+  {
+    "ID": 190,
+    "Problem": "How should B10 be applied where pay meets a minimum fixed by collective agreement, only some employees are collectively covered, training varies, and no law requires a gender pay-gap figure?",
+    "Solution": "The undertaking shall disclose whether employees receive pay equal to or above the applicable minimum wage; that minimum may be determined through a collective bargaining agreement as well as directly by national law. It shall disclose the percentage of employees covered by collective bargaining agreements and the average annual training hours per employee. Because no EU or national rule already requires the undertaking to report the female-to-male percentage pay gap, B10 does not trigger that datapoint. Annex II covers the minimum-pay statement, collective-bargaining coverage and training average for both undertaking size groups, but does not list the conditional pay-gap datapoint.",
+    "VS Module": "B10"
+  },
+  {
+    "ID": 191,
+    "Problem": "What does B11 require, and what does it not require, when an undertaking receives two convictions and incurs an aggregate EUR 75,000 in fines for anti-corruption and anti-bribery violations?",
+    "Solution": "Because convictions and fines occurred during the reporting period, the undertaking shall disclose two convictions and the total amount of fines incurred, EUR 75,000. B11 asks for the number of convictions and the aggregate fine amount for violations of anti-corruption and anti-bribery laws. It does not itself require a case-by-case narrative, the names of offenders, details of investigations or a description of compliance controls.",
+    "VS Module": "B11"
+  },
+  {
+    "ID": 192,
+    "Problem": "How do C1 and Annex II apply to a 25-employee wholesaler whose sustainability strategy affects procurement, particularly across products, markets, relationships and strategy?",
+    "Solution": "Because the undertaking has more than 10 employees, it shall describe its significant product or service groups, significant markets and main business relationships. Because its strategy has key elements affecting sustainability issues, it shall also briefly describe those elements, including the procurement-related element. Annex II lists the product or service, market and business-relationship descriptions as value-chain-cap datapoints for undertakings with more than 10 employees. It does not list the sustainability-related strategy description under C1(d) as a cap datapoint.",
+    "VS Module": "C1"
+  },
+  {
+    "ID": 193,
+    "Problem": "How should C2 extend B2 when a reported sustainability policy covers suppliers, has implementation targets and an accountable board committee, and which element remains optional?",
+    "Solution": "The undertaking shall briefly describe the practice, policy or future initiative already reported under B2. Because the policy covers suppliers, that coverage shall be mentioned; client coverage would likewise have to be mentioned if present. Any targets identified under B2 to monitor implementation shall also be briefly described. The undertaking may indicate the most senior person or body accountable for implementation when it has determined that accountability, so identifying the board committee is optional under C2 rather than mandatory.",
+    "VS Module": "C2"
+  },
+  {
+    "ID": 194 ,
+    "Problem": "What combined C3 disclosures arise when a 40-employee undertaking has absolute Scope 1, Scope 2 and significant Scope 3 targets but operates in a high-climate-impact sector without a transition plan?",
+    "Solution": "For each established target, the undertaking shall provide the target year and value, base year and value, units, the share of Scope 1, Scope 2 and disclosed Scope 3 emissions concerned, and the main actions intended to achieve the targets. Scope 1 and Scope 2 targets shall be expressed in absolute values, and Scope 3 targets shall address significant Scope 3 emissions. Because it operates in a high-climate-impact sector without a climate-change-mitigation transition plan, it shall state whether it will adopt one and, if so, when. Information on an adopted plan and how it contributes to reducing emissions is permitted but not required.",
+    "VS Module": "C3"
+  },
+  {
+    "ID": 195,
+    "Problem": "How should a 15-employee undertaking report a flood hazard expected in three years and a transition event expected in eight years after identifying both as climate-related risks?",
+    "Solution": "It shall briefly describe the flood hazard and the transition event, explain how it assessed the exposure and sensitivity of its assets, activities and value chain, state their time horizons, and disclose whether it has taken climate-change-adaptation actions for either risk. Under the Standard's definitions, three years is medium term because medium term is two to five years, while eight years is long term because long term exceeds five years. The undertaking may additionally disclose potential adverse effects on financial performance or operations and rate the risks as high, medium or low.",
+    "VS Module": "C4"
+  },
+  {
+    "ID": 196,
+    "Problem": "Which C5 workforce datapoints are required or optional for an undertaking with nine employees, and how does Annex II treat turnover compared with management and external-worker information?",
+    "Solution": "For an undertaking with 10 employees or fewer, the employee turnover rate is voluntary. The female-to-male management ratio is a may-disclose item for any undertaking, as are the numbers of exclusive self-employed persons without personnel and temporary workers supplied by employment-activity undertakings. Annex II lists employee turnover under the value chain cap only for undertakings with more than 10 employees. It does not list the management ratio or the two external-worker counts as cap datapoints.",
+    "VS Module": "C5"
+  },
+  {
+    "ID": 197,
+    "Problem": "How must a 12-employee undertaking answer C6 if its workforce policy covers child labour, forced labour, discrimination and accident prevention, but not trafficking, and it has no complaints mechanism?",
+    "Solution": "It shall answer YES to having a code of conduct or human rights policy for its own workforce. It shall then answer separately: YES for child labour, YES for forced labour, NO for human trafficking, YES for discrimination and YES for accident prevention; it shall also answer the 'other' item and specify any other coverage if the answer is YES. It shall answer NO to having a complaints-handling mechanism for its own workforce. Annex II lists the existence of the policy and the complaints mechanism as value-chain-cap datapoints for undertakings with more than 10 employees, but not the individual coverage answers.",
+    "VS Module": "C6"
+  },
+  {
+    "ID": 198,
+    "Problem": "How should a 30-employee undertaking complete C7 after confirming workforce discrimination and a separate incident affecting value-chain workers, while remediation is still under way?",
+    "Solution": "It shall answer the own-workforce incident questions by category, including YES for discrimination and the appropriate YES or NO answer for child labour, forced labour, human trafficking and any other incident category. It may describe the remediation actions being taken; that narrative is optional. It shall also answer whether it is aware of confirmed incidents involving value-chain workers, affected communities, consumers or end-users during the reporting period and, because the answer is YES, specify the value-chain-worker incident. Annex II lists both the own-workforce incident answers and the external-stakeholder incident datapoint under the cap for undertakings with more than 10 employees.",
+    "VS Module": "C7"
+  },
+  {
+    "ID": 199,
+    "Problem": "What revenue breakdown is required when an undertaking produces Division 20.2 chemicals, earns from oil and gas but not coal, and only retails tobacco manufactured by another entity?",
+    "Solution": "The undertaking shall disclose the revenues related to chemicals production because its activities fall under Division 20.2. It shall also disclose fossil-fuel revenues and disaggregate them between coal, oil and gas, including the absence of coal revenue within that disaggregation. C8 identifies tobacco activity as the cultivation and production of tobacco; retailing tobacco made by another entity is not one of those specified activities. Revenue from prohibited weapons would be disclosed only if the undertaking were active in that sector.",
+    "VS Module": "C8"
+  },
+  {
+    "ID": 200,
+    "Problem": "How should a sole trader with no governance body treat C9, and must the non-disclosure be identified in B1 as though information had been protected under paragraph 22?",
+    "Solution": "C9 applies only if the undertaking has a governance body in place. Because the sole trader has none, the gender diversity ratio is not applicable and may be omitted; under the if applicable principle, that omission is assumed to mean the item is not applicable. This is not an omission made under paragraph 22 for commercial prejudice, trade secrets, classified information, legal protection, privacy or security. Therefore, B1 does not require the undertaking to identify the omitted C9 datapoint as a paragraph 22 omission.",
+    "VS Module": "C9"
+  }
+]
